@@ -116,9 +116,9 @@
 .nav-collapse-inner { min-height: 0; overflow: hidden; }
 .nav-link:focus-visible, .nav-toggle:focus-visible { outline-offset: -3px; }
 @media (hover: hover) {
-  .nav-row:hover { background: #dce2d4; color: #34402e; }
-  .nav-toggle:hover { background: #cbd6c0; }
-  .nav-item:hover { background: #dce2d4; color: #34402e; }
+  .nav-row:hover { background: #dedede; color: #303030; }
+  .nav-toggle:hover { background: #d0d0d0; }
+  .nav-item:hover { background: #dedede; color: #303030; }
 }
 @media (prefers-reduced-motion: reduce) {
   .nav-row, .nav-toggle svg, .nav-collapse { transition: none; }
