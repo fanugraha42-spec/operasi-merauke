@@ -8,6 +8,10 @@ const icons=[LayoutDashboard,ShieldCheck,Wrench,FolderOpen,ChartNoAxesGantt,Clou
 const roots=menus.filter(m=>!m.path.includes('/'));
 const defaultSheet='https://docs.google.com/spreadsheets/d/1xjdD4OGKPsp99M9V-p2ytLK7D7o8ylk6/edit?gid=1788085531#gid=1788085531';
 const ocr='proteksi-meter/products/settings-ocr-gfr-20-kv';
+const defaultSheets={
+ [ocr]:defaultSheet,
+ 'pemeliharaan-em/products/jadwal-padam':'https://docs.google.com/spreadsheets/d/1piBDtEZ9kyncJCJS-RAmKsxdtyJ5es49DgybwoQ5M1c/edit?gid=1825013793#gid=1825013793'
+};
 const seed=[{id:'1',title:'Evaluasi setting OCR / GFR',team:'Proteksi & Meter',owner:'Tim Proteksi',start:'2026-11-16',end:'2026-11-21',progress:68,priority:'Tinggi'},{id:'2',title:'Pemeliharaan kubikel 20 kV',team:'Pemeliharaan E&M',owner:'Tim Pemeliharaan',start:'2026-11-17',end:'2026-11-23',progress:42,priority:'Tinggi'},{id:'3',title:'Inspeksi keypoint penyulang',team:'Pemeliharaan E&M',owner:'Tim Inspeksi',start:'2026-11-18',end:'2026-11-24',progress:80,priority:'Sedang'},{id:'4',title:'Pembaruan single line diagram',team:'Support',owner:'Tim Operasi',start:'2026-11-16',end:'2026-11-19',progress:100,priority:'Rendah'}];
 const priorityColor=priority=>({Tinggi:'rose',Sedang:'sand',Rendah:'sage'}[priority]||'sand');
 const fmt=d=>new Date(d+'T00:00:00').toLocaleDateString('id-ID',{day:'numeric',month:'short'});
@@ -15,7 +19,7 @@ function App(){
  const [route,setRoute]=useState(decodeURIComponent(location.hash.slice(1))||'home');
  const [expanded,setExpanded]=useState({});
  const [tasks,setTasks]=useState(()=>loadLocal('merauke.tasks.v1',seed));
- const [sheets,setSheets]=useState(()=>loadLocal('merauke.sheets.v1',{[ocr]:defaultSheet}));
+ const [sheets,setSheets]=useState(()=>({...defaultSheets,...loadLocal('merauke.sheets.v1',{})}));
  const [query,setQuery]=useState(''),[nav,setNav]=useState(false),[modal,setModal]=useState(null),[toast,setToast]=useState(''),[filter,setFilter]=useState('Semua tim'),[view,setView]=useState('Timeline'),[start,setStart]=useState('2026-11-16');
  React.useEffect(()=>{const f=()=>setRoute(decodeURIComponent(location.hash.slice(1))||'home');window.addEventListener('hashchange',f);return()=>window.removeEventListener('hashchange',f)},[]);
  const go=(p,reveal=false)=>{
