@@ -1,0 +1,326 @@
+[
+  {
+    "path": "home",
+    "label": "Home"
+  },
+  {
+    "path": "proteksi-meter",
+    "label": "Proteksi & Meter"
+  },
+  {
+    "path": "proteksi-meter/products",
+    "label": "Products"
+  },
+  {
+    "path": "proteksi-meter/products/settings-ocr-gfr-20-kv",
+    "label": "Settings OCR / GFR 20 kV"
+  },
+  {
+    "path": "proteksi-meter/products/settings-ufr-defence-scheme",
+    "label": "Settings UFR (Defence Scheme)"
+  },
+  {
+    "path": "proteksi-meter/products/settings-sectionalizer",
+    "label": "Settings Sectionalizer"
+  },
+  {
+    "path": "proteksi-meter/products/monitoring-ar-gh",
+    "label": "Monitoring AR GH"
+  },
+  {
+    "path": "proteksi-meter/products/data-lbs-3-way",
+    "label": "Data LBS 3 Way"
+  },
+  {
+    "path": "proteksi-meter/products/data-arus-hubung-singkat-20kv",
+    "label": "Data Arus Hubung Singkat 20kV"
+  },
+  {
+    "path": "proteksi-meter/products/data-ct-gardu-hubung",
+    "label": "Data CT Gardu Hubung"
+  },
+  {
+    "path": "proteksi-meter/products/remote-relay-gh",
+    "label": "Remote Relay GH"
+  },
+  {
+    "path": "proteksi-meter/products/trip-bersamaan",
+    "label": "Trip Bersamaan"
+  },
+  {
+    "path": "proteksi-meter/products/recloser-tidak-selektif",
+    "label": "Recloser Tidak Selektif"
+  },
+  {
+    "path": "proteksi-meter/products/efektifitas-keypoint",
+    "label": "Efektifitas Keypoint"
+  },
+  {
+    "path": "proteksi-meter/products/fault-locator",
+    "label": "Fault Locator"
+  },
+  {
+    "path": "proteksi-meter/products/feeder-underbuilt",
+    "label": "Feeder Underbuilt"
+  },
+  {
+    "path": "proteksi-meter/products/spontan",
+    "label": "Spontan"
+  },
+  {
+    "path": "proteksi-meter/products/caramel",
+    "label": "Caramel"
+  },
+  {
+    "path": "proteksi-meter/products/calculator-abb",
+    "label": "Calculator ABB"
+  },
+  {
+    "path": "proteksi-meter/products/rasio-pt-cooper",
+    "label": "Rasio PT Cooper"
+  },
+  {
+    "path": "proteksi-meter/products/modular",
+    "label": "Modular"
+  },
+  {
+    "path": "proteksi-meter/products/setting-pelanggan",
+    "label": "Setting Pelanggan"
+  },
+  {
+    "path": "proteksi-meter/products/laporan-buku-anev",
+    "label": "Laporan / Buku / Anev"
+  },
+  {
+    "path": "proteksi-meter/products/tbm-3-bulanan",
+    "label": "TBM 3 Bulanan"
+  },
+  {
+    "path": "proteksi-meter/products/morphing-rtu",
+    "label": "Morphing RTU"
+  },
+  {
+    "path": "proteksi-meter/products/monitoring-sequence",
+    "label": "Monitoring Sequence"
+  },
+  {
+    "path": "proteksi-meter/solutions",
+    "label": "Solutions"
+  },
+  {
+    "path": "proteksi-meter/solutions/sectionalizer-solution",
+    "label": "Sectionalizer Solution"
+  },
+  {
+    "path": "proteksi-meter/solutions/recloser-solution",
+    "label": "Recloser Solution"
+  },
+  {
+    "path": "proteksi-meter/solutions/relay-solution",
+    "label": "Relay Solution"
+  },
+  {
+    "path": "proteksi-meter/solutions/3-way-solution",
+    "label": "3 Way Solution"
+  },
+  {
+    "path": "proteksi-meter/solutions/blackout-solution",
+    "label": "Blackout Solution"
+  },
+  {
+    "path": "proteksi-meter/sop-dan-ik-proteksi",
+    "label": "SOP dan IK Proteksi"
+  },
+  {
+    "path": "proteksi-meter/kinerja-proteksi-meter",
+    "label": "Kinerja Proteksi & Meter"
+  },
+  {
+    "path": "proteksi-meter/pending-item-proteksi",
+    "label": "Pending Item Proteksi"
+  },
+  {
+    "path": "pemeliharaan-em",
+    "label": "Pemeliharaan E&M"
+  },
+  {
+    "path": "pemeliharaan-em/products",
+    "label": "Products"
+  },
+  {
+    "path": "pemeliharaan-em/products/pemeliharaan-kubikel",
+    "label": "Pemeliharaan Kubikel"
+  },
+  {
+    "path": "pemeliharaan-em/products/pemeliharaan-keypoint",
+    "label": "Pemeliharaan Keypoint"
+  },
+  {
+    "path": "pemeliharaan-em/products/jadwal-padam",
+    "label": "Jadwal Padam"
+  },
+  {
+    "path": "pemeliharaan-em/products/slo",
+    "label": "SLO"
+  },
+  {
+    "path": "pemeliharaan-em/solutions",
+    "label": "Solutions"
+  },
+  {
+    "path": "pemeliharaan-em/solutions/cubicle-solution",
+    "label": "Cubicle Solution"
+  },
+  {
+    "path": "pemeliharaan-em/solutions/switchgear-solution",
+    "label": "Switchgear Solution"
+  },
+  {
+    "path": "pemeliharaan-em/solutions/accessories-20-kv-solution",
+    "label": "Accessories 20 kV Solution"
+  },
+  {
+    "path": "pemeliharaan-em/kinerja-har-em",
+    "label": "Kinerja HAR E&M"
+  },
+  {
+    "path": "pemeliharaan-em/korektif-har",
+    "label": "Korektif HAR"
+  },
+  {
+    "path": "pemeliharaan-em/preventif-har",
+    "label": "Preventif HAR"
+  },
+  {
+    "path": "pemeliharaan-em/sop-ik-pemeliharaan",
+    "label": "SOP & IK Pemeliharaan"
+  },
+  {
+    "path": "support",
+    "label": "Support"
+  },
+  {
+    "path": "support/wiring-diagram-cubicle",
+    "label": "Wiring Diagram Cubicle"
+  },
+  {
+    "path": "support/wiring-diagram-keypoint",
+    "label": "Wiring Diagram Keypoint"
+  },
+  {
+    "path": "support/sld-20-kv",
+    "label": "SLD 20 kV"
+  },
+  {
+    "path": "support/manual-book-relay",
+    "label": "Manual Book Relay"
+  },
+  {
+    "path": "support/manual-book-recloser",
+    "label": "Manual Book Recloser"
+  },
+  {
+    "path": "support/manual-book-sectionalizer",
+    "label": "Manual Book Sectionalizer"
+  },
+  {
+    "path": "support/manual-book-3-way",
+    "label": "Manual Book 3 Way"
+  },
+  {
+    "path": "support/software",
+    "label": "Software"
+  },
+  {
+    "path": "support/software/connectivity-package-abb",
+    "label": "Connectivity Package ABB"
+  },
+  {
+    "path": "support/software/data-model-easergy-studio",
+    "label": "Data Model Easergy Studio"
+  },
+  {
+    "path": "support/software/driver-kabel-serial",
+    "label": "Driver Kabel Serial"
+  },
+  {
+    "path": "support/software/firmware-cooper-fxd2000",
+    "label": "Firmware Cooper FXD2000"
+  },
+  {
+    "path": "support/software/firmware-advc",
+    "label": "Firmware ADVC"
+  },
+  {
+    "path": "support/software/firmware-joongwon-ar",
+    "label": "Firmware Joongwon (AR)"
+  },
+  {
+    "path": "support/software/firmware-techpro",
+    "label": "Firmware Techpro"
+  },
+  {
+    "path": "support/software/firmware-megger",
+    "label": "Firmware Megger"
+  },
+  {
+    "path": "support/software/firmware-sso-sintra-pnc-tech",
+    "label": "Firmware SSO Sintra (PNC Tech)"
+  },
+  {
+    "path": "support/software/flash-upgrade-fw-siemens",
+    "label": "Flash & Upgrade FW Siemens"
+  },
+  {
+    "path": "support/software/p127-upgrade-modbus-to-dnp3",
+    "label": "P127 Upgrade Modbus to DNP3"
+  },
+  {
+    "path": "support/software/relay-lib-pf",
+    "label": "Relay Lib (PF)"
+  },
+  {
+    "path": "support/lokasi-keypoint",
+    "label": "Lokasi Keypoint"
+  },
+  {
+    "path": "support/voltage-drop-calc",
+    "label": "Voltage Drop Calc"
+  },
+  {
+    "path": "support/iec-idmt-calc",
+    "label": "IEC IDMT Calc"
+  },
+  {
+    "path": "support/data-commissioning",
+    "label": "Data Commissioning"
+  },
+  {
+    "path": "support/pelanggan-premium",
+    "label": "Pelanggan Premium"
+  },
+  {
+    "path": "support/documents",
+    "label": "Documents"
+  },
+  {
+    "path": "support/otomasi-gi",
+    "label": "Otomasi GI"
+  },
+  {
+    "path": "support/short-circuit-calc",
+    "label": "Short Circuit Calc."
+  },
+  {
+    "path": "task-monitoring",
+    "label": "Task Monitoring"
+  },
+  {
+    "path": "weather",
+    "label": "Weather"
+  },
+  {
+    "path": "about-us",
+    "label": "About Us"
+  }
+]

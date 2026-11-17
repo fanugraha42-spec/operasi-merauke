@@ -1,0 +1,4 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {sheetEmbed,timelinePosition} from '../src/lib.js';
+test('keeps spreadsheet tab from query or hash',()=>{assert.equal(sheetEmbed('https://docs.google.com/spreadsheets/d/abc-123/edit#gid=42'),'https://docs.google.com/spreadsheets/d/abc-123/preview/sheet?gid=42');assert.match(sheetEmbed('https://docs.google.com/spreadsheets/d/abc/edit?gid=99'),/gid=99$/)});
+test('rejects unsafe embed URLs',()=>{for(const u of ['javascript:alert(1)','https://evil.com/spreadsheets/d/x/edit','https://docs.google.com.evil.com/spreadsheets/d/x/edit','http://docs.google.com/spreadsheets/d/x/edit'])assert.throws(()=>sheetEmbed(u))});
+test('clips timeline to visible dates',()=>{assert.deepEqual(timelinePosition({start:'2026-11-14',end:'2026-11-18'},'2026-11-16',10),{left:0,width:30});assert.equal(timelinePosition({start:'2026-12-01',end:'2026-12-03'},'2026-11-16',10),null)});
