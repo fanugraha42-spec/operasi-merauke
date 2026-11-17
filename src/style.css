@@ -124,3 +124,18 @@
 @media (prefers-reduced-motion: reduce) {
   .nav-row, .nav-toggle svg, .nav-collapse { transition: none; }
 }
+
+/* Responsive embedded Windy weather map. */
+.weather-panel .section-heading { align-items: center; }
+.weather-map {
+  display: block;
+  width: 100%;
+  height: clamp(450px, 70vh, 800px);
+  border: 0;
+  border-radius: 10px;
+  background: #dedede;
+}
+@media (max-width: 760px) {
+  .weather-panel .section-heading { gap: 16px; }
+  .weather-map { height: 65vh; min-height: 420px; }
+}
