@@ -52,3 +52,74 @@
   .focus-progress > span { display: inline; }
   .demo-strip > span { max-width: none; }
 }
+
+/* Navigation expansion is controlled independently from the current page. */
+.nav-row {
+  display: flex;
+  align-items: stretch;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  color: #76776f;
+  transition: background-color 160ms ease, color 160ms ease, box-shadow 160ms ease;
+}
+.nav-row.active {
+  background: #f8f7f3;
+  color: #2d302a;
+  box-shadow: 0 3px 8px #302f2910;
+}
+.nav-row.selected .nav-link { font-weight: 600; }
+.nav-child.selected { background: #d5ddce; color: #33412c; }
+.nav-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+  flex: 1;
+  padding: 13px 12px;
+  background: transparent;
+  text-align: left;
+  border-radius: 10px;
+  font-size: 14px;
+  color: inherit;
+}
+.nav-link span { min-width: 0; overflow-wrap: anywhere; }
+.nav-link svg { flex-shrink: 0; }
+.nav-child .nav-link {
+  padding: 10px 8px 10px calc(21px + (var(--nav-depth) - 1) * 12px);
+  font-size: 13px;
+  line-height: 1.6;
+}
+.nav-toggle {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  flex-shrink: 0;
+  border-radius: 9px;
+  background: transparent;
+  color: inherit;
+}
+.nav-toggle svg { transition: transform 260ms ease; }
+.nav-toggle[aria-expanded="true"] svg { transform: rotate(180deg); }
+.nav-collapse {
+  display: grid;
+  grid-template-rows: 0fr;
+  opacity: 0;
+  visibility: hidden;
+  transition: grid-template-rows 280ms ease, opacity 220ms ease, visibility 0s linear 280ms;
+}
+.nav-collapse.is-expanded {
+  grid-template-rows: 1fr;
+  opacity: 1;
+  visibility: visible;
+  transition: grid-template-rows 280ms ease, opacity 220ms ease, visibility 0s;
+}
+.nav-collapse-inner { min-height: 0; overflow: hidden; }
+.nav-link:focus-visible, .nav-toggle:focus-visible { outline-offset: -3px; }
+@media (hover: hover) {
+  .nav-row:hover { background: #dce2d4; color: #34402e; }
+  .nav-toggle:hover { background: #cbd6c0; }
+  .nav-item:hover { background: #dce2d4; color: #34402e; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .nav-row, .nav-toggle svg, .nav-collapse { transition: none; }
+}
