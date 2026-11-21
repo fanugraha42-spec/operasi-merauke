@@ -143,3 +143,9 @@
   .weather-panel .section-heading { gap: 16px; }
   .weather-map { height: 65vh; min-height: 420px; }
 }
+
+/* Shared workspace status and asynchronous forms. */
+.sync-banner { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; padding: 12px 14px; margin-bottom: 20px; border-radius: 9px; background: #f4f2ee; color: #73766c; font-size: 12px; line-height: 1.7; }
+.sync-banner.sync-error { background: #edd8d1; color: #804939; }
+.modal fieldset { border: 0; margin: 0; padding: 0; min-width: 0; }
+button:disabled { cursor: wait; opacity: .6; }
