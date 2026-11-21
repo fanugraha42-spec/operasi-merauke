@@ -2,11 +2,19 @@
 
 Portal Bidang Operasi UP3 Merauke, React + Vite. Diimpor ke Vercel dari repositori ini.
 
+## Konfigurasi proyek yang sudah dipasang
+
+Project URL dan publishable key publik pemilik sudah ditanam di `src/supabase.public.json`. Vercel dapat membangun koneksi dari file ini tanpa environment variable tambahan. Variable `VITE_SUPABASE_URL` dan `VITE_SUPABASE_PUBLISHABLE_KEY` tetap dapat dipakai untuk mengganti konfigurasi saat build.
+
+**Hasil pemeriksaan awal:** proyek Supabase merespons, tetapi REST API belum menemukan `portal_tasks` dan `portal_sheet_sources`. Jalankan `supabase/schema.sql` pada SQL Editor proyek tersebut. Selama tabel belum tersedia, portal akan menampilkan error penyimpanan bersama dan tidak menerima penyimpanan baru. Tugas lama browser tetap dapat diunduh melalui Panduan portal.
+
+Setelah SQL berhasil, portal mencoba koneksi lagi setiap 10 detik; bisa juga klik Muat ulang data. Koneksi GitHub ke Supabase tidak otomatis membuat kedua tabel ini.
+
 ## Penyimpanan bersama tanpa login
 
 Versi ini menyediakan koneksi Supabase untuk tugas dan sumber Google Sheets bersama. Sesuai permintaan pemilik, **semua pengunjung dapat membaca, menambah, mengubah, dan menghapus data portal tanpa login**. Siapa pun yang mengetahui URL/API juga dapat melakukan perubahan tersebut. Izin ini hanya diterapkan pada dua tabel portal. Izin dokumen Google Sheets tetap mengikuti pengaturan Google.
 
-**Belum aktif sampai Anda membuat proyek Supabase, menjalankan SQL, dan memasang kedua environment variable di Vercel.** Tanpa keduanya, portal tetap memakai penyimpanan lokal dengan pemberitahuan yang jelas. Jika konfigurasi sudah ada tetapi database/koneksi gagal, aplikasi menampilkan error dan tidak beralih diam-diam ke penyimpanan lokal.
+**Belum aktif sampai skrip SQL berhasil dijalankan dan deployment yang memuat konfigurasi publik selesai.** Mode lokal hanya digunakan jika konfigurasi publik dihapus dan kedua environment variable dikosongkan. Jika konfigurasi sudah ada tetapi database/koneksi gagal, aplikasi menampilkan error dan tidak beralih diam-diam ke penyimpanan lokal.
 
 ### 1. Buat proyek Supabase
 
@@ -68,7 +76,7 @@ npm test
 npm run build
 ```
 
-Tanpa `.env.local`, aplikasi berjalan dalam mode lokal. Jangan commit `.env.local`.
+Tanpa `.env.local`, aplikasi memakai konfigurasi publik di `src/supabase.public.json`. Jangan commit `.env.local`.
 
 ## Fitur antarmuka
 

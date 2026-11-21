@@ -1,13 +1,16 @@
 import {useEffect,useMemo,useRef,useState} from 'react';
 import {loadLocal,sheetEmbed} from './lib.js';
 import {createSharedStore} from './shared-store.js';
+import publicConfig from './supabase.public.json';
 
 const environment=import.meta.env;
+const supabaseUrl=environment.VITE_SUPABASE_URL||publicConfig.url;
+const supabaseKey=environment.VITE_SUPABASE_PUBLISHABLE_KEY||publicConfig.publishableKey;
 export function usePortalData(seed,defaults){
- const shared=Boolean(environment.VITE_SUPABASE_URL||environment.VITE_SUPABASE_PUBLISHABLE_KEY);
+ const shared=Boolean(supabaseUrl||supabaseKey);
  const connection=useMemo(()=>{
   if(!shared)return {};
-  try{return {store:createSharedStore({url:environment.VITE_SUPABASE_URL,key:environment.VITE_SUPABASE_PUBLISHABLE_KEY})};}
+  try{return {store:createSharedStore({url:supabaseUrl,key:supabaseKey})};}
   catch(error){return {error:error.message};}
  },[shared]);
  const [data,setData]=useState(()=>({tasks:shared?[]:loadLocal('merauke.tasks.v1',seed),sheets:shared?defaults:{...defaults,...loadLocal('merauke.sheets.v1',{})},sources:{}}));
