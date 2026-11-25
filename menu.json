@@ -89,6 +89,14 @@
     "label": "List IP Keypoint"
   },
   {
+    "path": "scada-telekomunikasi/radio",
+    "label": "Radio"
+  },
+  {
+    "path": "scada-telekomunikasi/isr",
+    "label": "ISR"
+  },
+  {
     "path": "pemeliharaan-em",
     "label": "Pemeliharaan E&M"
   },
