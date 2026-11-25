@@ -175,3 +175,11 @@ button:disabled { cursor: wait; opacity: .6; }
 .original-reference > .hint a { overflow-wrap: anywhere; text-decoration: underline; }
 @media (max-width: 1050px) { .reference-layout { grid-template-columns: 1fr; } .reference-list { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); } }
 @media (max-width: 760px) { .pending-summary { gap: 8px; } .pending-summary .panel { padding: 14px 10px; } .pending-summary span { font-size: 10px; line-height: 1.7; } .pending-summary strong { font-size: 25px; } .pending-search { flex-basis: 100%; max-width: none; } .reference-list { grid-template-columns: 1fr; } .original-reference .primary { white-space: normal; } }
+
+.heading-actions { display:flex; align-items:center; gap:10px; flex-shrink:0; }
+.export-icon { width:42px; height:42px; padding:0; }
+.category-tabs { display:flex; gap:7px; overflow-x:auto; padding:0 0 15px; margin:0 0 8px; border-bottom:1px solid #dad7d1; }
+.category-tabs button { display:flex; align-items:center; gap:8px; white-space:nowrap; padding:11px 13px; border-radius:9px; background:transparent; color:#81847b; font-size:12px; }
+.category-tabs button span { font-size:10px; border-radius:5px; padding:2px 5px; background:#e1dfd9; }
+.category-tabs button.category-active { background:#f8f7f3; color:#292b27; font-weight:650; box-shadow:0 2px 5px #0001; }
+@media (max-width:760px) { .heading-actions { margin-top:18px; } .category-tabs button { font-size:12px; } }

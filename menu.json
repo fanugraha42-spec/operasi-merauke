@@ -73,6 +73,22 @@
     "parent": "proteksi-meter"
   },
   {
+    "path": "scada-telekomunikasi",
+    "label": "SCADA & Telekomunikasi"
+  },
+  {
+    "path": "scada-telekomunikasi/list-ip-rtu-gh",
+    "label": "List IP RTU GH"
+  },
+  {
+    "path": "scada-telekomunikasi/list-ip-relay",
+    "label": "List IP Relay"
+  },
+  {
+    "path": "scada-telekomunikasi/list-ip-keypoint",
+    "label": "List IP Keypoint"
+  },
+  {
     "path": "pemeliharaan-em",
     "label": "Pemeliharaan E&M"
   },

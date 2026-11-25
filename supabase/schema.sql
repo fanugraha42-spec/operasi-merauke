@@ -9,6 +9,7 @@ create table if not exists public.portal_tasks (
  start date not null,
  "end" date not null,
  progress integer not null check (progress between 0 and 100),
+ category text not null default 'proteksi' check (category in ('proteksi','scada-telekomunikasi','jasa-pekerjaan','material-penunjang','pelayanan-teknik')),
  priority text not null check (priority in ('Rendah','Sedang','Tinggi')),
  revision integer not null default 1,
  updated_at timestamptz not null default now(),

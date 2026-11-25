@@ -111,3 +111,13 @@ Sumber diperiksa pada 25 November 2026. Pengujian tambahan ada di `tests/protect
 ### Navigasi Proteksi
 
 Nama menu utama menjadi **Proteksi**. Ketiga belas halaman ditampilkan langsung di bawah Proteksi, tanpa kelompok Products. Halaman ringkasan Proteksi juga menampilkan langsung 13 kartu tersebut. `parent` pada menu menentukan induk tampilan; path halaman dan kunci sumber Sheets tetap dipertahankan supaya link serta data bersama yang sudah ada tetap bekerja. Bookmark lama `#proteksi-meter/products` dialihkan ke ringkasan Proteksi. Hierarki Pemeliharaan E&M dan Support tetap memakai induknya masing-masing.
+
+## SCADA dan kategori pekerjaan
+
+Menu SCADA & Telekomunikasi ada langsung di bawah Proteksi, berisi List IP RTU GH, List IP Relay, dan List IP Keypoint. Sumber Sheets belum diberikan; ketiga halaman menyediakan pengaturan sumber bersama.
+
+Task Monitoring mempunyai lima tab kategori. Tambah pekerjaan memakai kategori tab aktif sebagai awal; kategori bisa dipilih atau diubah pada formulir. Kategori berbeda dari tim penanggung jawab. Data lama tanpa kategori ditampilkan dalam Proteksi.
+
+**Untuk database yang sudah berjalan**, jalankan `supabase/migrations/20261126_task_categories.sql` di SQL Editor Supabase. Ini menambah kolom kategori tanpa menghapus pekerjaan lama. Instalasi baru dapat memakai schema.sql. Tanpa migrasi, pembacaan data lama tetap tersedia, tetapi simpan pekerjaan berkategori menampilkan instruksi migrasi.
+
+Ikon ekspor ada di kanan Tambah pekerjaan. XLSX berisi Seluruh Pekerjaan (semua kategori), Tampilan Aktif (tab dan filter aktif), Rekap Kategori, serta Keterangan. Pending Item Proteksi tidak masuk rekap tugas. Tanggal berupa date Excel, progres numerik berformat persen, durasi numerik, baris header dibekukan, dan autofilter tersedia. Label ruang kerja bersama di atas monitoring dihapus.

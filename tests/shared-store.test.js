@@ -105,3 +105,5 @@ test('field findings sync via existing task rows without replacing ordinary jobs
  await a.deleteTask(updated);
  assert.deepEqual((await b.read()).tasks.map(t=>t.id),['ordinary-job']);
 });
+
+test('task categories persist across clients and may be edited independently from team',async()=>{const db=database(),a=db.client(),b=db.client();const row=await a.saveTask({...task('category-test'),category:'scada-telekomunikasi'});assert.equal((await b.read()).tasks[0].category,'scada-telekomunikasi');await b.saveTask({...row,category:'pelayanan-teknik'},row);const saved=(await a.read()).tasks[0];assert.equal(saved.category,'pelayanan-teknik');assert.equal(saved.team,'Support');});

@@ -1,8 +1,8 @@
 import {sheetEmbed} from './lib.js';
 
 export const CONFLICT_MESSAGE='Data ini sudah diubah atau dihapus pengguna lain. Tutup formulir, muat ulang data, lalu coba lagi.';
-const taskFields=['id','title','team','owner','start','end','progress','priority'];
-const cleanTask=task=>Object.fromEntries(taskFields.map(key=>[key,task[key]]));
+const taskFields=['id','title','team','owner','start','end','progress','priority','category'];
+const cleanTask=task=>Object.fromEntries(taskFields.filter(key=>task[key]!==undefined).map(key=>[key,task[key]]));
 
 export function createSharedStore({url,key,fetchImpl=fetch}) {
  const base=new URL(url);
@@ -20,6 +20,7 @@ export function createSharedStore({url,key,fetchImpl=fetch}) {
   try {response=await fetchImpl(`${base.origin}/rest/v1/${table}?${query}`,{method,headers,body:body===undefined?undefined:JSON.stringify(body),cache:'no-store',signal:AbortSignal.timeout(15000)});}
   catch {throw new Error('Koneksi penyimpanan bersama terputus. Perubahan belum disimpan. Coba lagi saat terhubung.');}
   if(!response.ok){
+   if(response.status===400){const detail=await response.clone().json().catch(()=>({}));if(detail.code==='PGRST204')throw new Error('Kolom kategori belum tersedia. Jalankan skrip kategori pekerjaan di Supabase terlebih dahulu.');}
    if(response.status===409)throw new Error(CONFLICT_MESSAGE);
    throw new Error('Penyimpanan bersama belum dapat diakses. Periksa koneksi, konfigurasi proyek, dan skrip database.');
   }
