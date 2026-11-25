@@ -80,7 +80,7 @@ Tanpa `.env.local`, aplikasi memakai konfigurasi publik di `src/supabase.public.
 
 ## Fitur antarmuka
 
-81 entri menu mengikuti situs referensi, sidebar dengan animasi expand/collapse dan hover transparan, header sticky, pencarian, layout responsif, timeline horizontal 10 hari, filter tim, editor tugas, warna berdasarkan prioritas, ekspor JSON, dan embed Windy untuk Merauke. Kalender/periode awal dashboard masih contoh November 2026. Form tugas baru memakai tanggal hari ini di WIT.
+62 entri menu; Products Proteksi & Meter disederhanakan menjadi 13 submenu sesuai revisi pemilik, sidebar dengan animasi expand/collapse dan hover transparan, header sticky, pencarian, layout responsif, timeline horizontal 10 hari, filter tim, editor tugas, warna berdasarkan prioritas, ekspor JSON, dan embed Windy untuk Merauke. Kalender/periode awal dashboard masih contoh November 2026. Form tugas baru memakai tanggal hari ini di WIT.
 
 Sumber Google Sheets bawaan ada di `src/main.jsx` (`defaultSheets`) dan seed SQL. Setelah database aktif, sumber database mengungguli sumber bawaan kode. Sumber yang diedit pada mode lokal hanya berlaku di browser tersebut.
 
@@ -95,3 +95,15 @@ Sumber Google Sheets bawaan ada di `src/main.jsx` (`defaultSheets`) dan seed SQL
 Build dan tes otomatis dijalankan. Proyek Supabase asli belum tersedia saat implementasi; SQL/policy dan sinkronisasi dua perangkat pada deployment asli masih perlu diverifikasi setelah konfigurasi. Tes simulasi tidak menggantikan uji deployment pada langkah 3.
 
 Referensi: [API keys Supabase](https://supabase.com/docs/guides/getting-started/api-keys), [Row Level Security](https://supabase.com/docs/guides/database/postgres/row-level-security).
+
+## Products Proteksi & Meter dan Pending Item
+
+Products berisi 13 entri: Setting OCR / GFR, Setting UFR, Setting Sectionalizer, Data Screening Keypoint, Fault Locator, Feeder Underbuilt, Jurnal DCC, Sectionalizer Solution, Recloser Solution, Relay Solution, 3 Way Solution, SOP dan IK Proteksi, serta Pending Item Proteksi. Tiga slug setting lama dipertahankan supaya sumber tersimpan tetap berlaku. Halaman solusi/SOP/Pending lama dialihkan ke lokasi baru melalui alias. Entri lama yang dihapus dari menu tidak menghapus data Supabase.
+
+Dua sumber Sheets baru ada di `src/protection.js`, seed SQL, dan database bersama.
+
+Halaman solusi Google Sites berisi artikel native, bukan embed Sheets. Situs sumber mengirim `X-Frame-Options: DENY` dan CSP `frame-ancestors`, sehingga seluruh halaman tidak bisa di-iframe. Portal menyediakan tombol ke panduan asli serta panel lampiran asli (Drive/folder/video/PDF) menggunakan ID yang sama, dicatat di `src/original-sources.json`. Artikel lengkap tetap dibaca pada situs sumber; isi teknisnya tidak disalin atau diubah. Label lampiran portal diringkas untuk navigasi.
+
+Pending Item adalah daftar temuan bersama: ringkasan temuan/lokasi, PIC, tanggal, target, prioritas, dan status. Status Terbuka/Dalam tindak lanjut/Selesai disimpan sebagai progres 0/50/100. Temuan memakai baris `portal_tasks` dengan ID awalan `pending-proteksi-` dan tim Proteksi & Meter. Awalan tersebut mengidentifikasi jenis temuan; temuan tidak ikut dihitung atau ditampilkan pada dashboard/timeline pekerjaan umum. Mekanisme revision dan sinkronisasi 10 detik tetap digunakan. **Tidak perlu menjalankan SQL atau membuat tabel baru untuk fitur Pending Item.**
+
+Sumber diperiksa pada 25 November 2026. Pengujian tambahan ada di `tests/protection.test.js` dan uji sinkronisasi temuan di `tests/shared-store.test.js`.

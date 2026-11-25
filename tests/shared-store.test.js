@@ -91,3 +91,17 @@ test('legacy anon keys are supported',async()=>{
  const client=createSharedStore({url:'https://example.supabase.co',key,fetchImpl:async(u,o)=>{headers=o.headers;return Response.json([])}});
  await client.read();assert.equal(headers.Authorization,'Bearer '+key);
 });
+
+test('field findings sync via existing task rows without replacing ordinary jobs',async()=>{
+ const {pendingRecord,PENDING_PREFIX,isPendingItem}=await import('../src/pending.js');
+ const db=database(),a=db.client(),b=db.client();
+ await a.saveTask(task('ordinary-job'));
+ const fields={title:'Temuan GH Merauke',owner:'Tim Proteksi',start:'2026-11-25',end:'2026-11-26',priority:'Tinggi',progress:0};
+ const row=await a.saveTask(pendingRecord(fields,PENDING_PREFIX+'a'));
+ const seen=(await b.read()).tasks;
+ assert.equal(seen.filter(isPendingItem).length,1);assert.equal(seen.filter(t=>!isPendingItem(t)).length,1);
+ const updated=await b.saveTask(pendingRecord({...fields,progress:100},row.id),row);
+ assert.equal((await a.read()).tasks.find(isPendingItem).progress,100);
+ await a.deleteTask(updated);
+ assert.deepEqual((await b.read()).tasks.map(t=>t.id),['ordinary-job']);
+});

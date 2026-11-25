@@ -13,47 +13,19 @@
   },
   {
     "path": "proteksi-meter/products/settings-ocr-gfr-20-kv",
-    "label": "Settings OCR / GFR 20 kV"
+    "label": "Setting OCR / GFR"
   },
   {
     "path": "proteksi-meter/products/settings-ufr-defence-scheme",
-    "label": "Settings UFR (Defence Scheme)"
+    "label": "Setting UFR"
   },
   {
     "path": "proteksi-meter/products/settings-sectionalizer",
-    "label": "Settings Sectionalizer"
+    "label": "Setting Sectionalizer"
   },
   {
-    "path": "proteksi-meter/products/monitoring-ar-gh",
-    "label": "Monitoring AR GH"
-  },
-  {
-    "path": "proteksi-meter/products/data-lbs-3-way",
-    "label": "Data LBS 3 Way"
-  },
-  {
-    "path": "proteksi-meter/products/data-arus-hubung-singkat-20kv",
-    "label": "Data Arus Hubung Singkat 20kV"
-  },
-  {
-    "path": "proteksi-meter/products/data-ct-gardu-hubung",
-    "label": "Data CT Gardu Hubung"
-  },
-  {
-    "path": "proteksi-meter/products/remote-relay-gh",
-    "label": "Remote Relay GH"
-  },
-  {
-    "path": "proteksi-meter/products/trip-bersamaan",
-    "label": "Trip Bersamaan"
-  },
-  {
-    "path": "proteksi-meter/products/recloser-tidak-selektif",
-    "label": "Recloser Tidak Selektif"
-  },
-  {
-    "path": "proteksi-meter/products/efektifitas-keypoint",
-    "label": "Efektifitas Keypoint"
+    "path": "proteksi-meter/products/data-screening-keypoint",
+    "label": "Data Screening Keypoint"
   },
   {
     "path": "proteksi-meter/products/fault-locator",
@@ -64,79 +36,31 @@
     "label": "Feeder Underbuilt"
   },
   {
-    "path": "proteksi-meter/products/spontan",
-    "label": "Spontan"
+    "path": "proteksi-meter/products/jurnal-dcc",
+    "label": "Jurnal DCC"
   },
   {
-    "path": "proteksi-meter/products/caramel",
-    "label": "Caramel"
-  },
-  {
-    "path": "proteksi-meter/products/calculator-abb",
-    "label": "Calculator ABB"
-  },
-  {
-    "path": "proteksi-meter/products/rasio-pt-cooper",
-    "label": "Rasio PT Cooper"
-  },
-  {
-    "path": "proteksi-meter/products/modular",
-    "label": "Modular"
-  },
-  {
-    "path": "proteksi-meter/products/setting-pelanggan",
-    "label": "Setting Pelanggan"
-  },
-  {
-    "path": "proteksi-meter/products/laporan-buku-anev",
-    "label": "Laporan / Buku / Anev"
-  },
-  {
-    "path": "proteksi-meter/products/tbm-3-bulanan",
-    "label": "TBM 3 Bulanan"
-  },
-  {
-    "path": "proteksi-meter/products/morphing-rtu",
-    "label": "Morphing RTU"
-  },
-  {
-    "path": "proteksi-meter/products/monitoring-sequence",
-    "label": "Monitoring Sequence"
-  },
-  {
-    "path": "proteksi-meter/solutions",
-    "label": "Solutions"
-  },
-  {
-    "path": "proteksi-meter/solutions/sectionalizer-solution",
+    "path": "proteksi-meter/products/sectionalizer-solution",
     "label": "Sectionalizer Solution"
   },
   {
-    "path": "proteksi-meter/solutions/recloser-solution",
+    "path": "proteksi-meter/products/recloser-solution",
     "label": "Recloser Solution"
   },
   {
-    "path": "proteksi-meter/solutions/relay-solution",
+    "path": "proteksi-meter/products/relay-solution",
     "label": "Relay Solution"
   },
   {
-    "path": "proteksi-meter/solutions/3-way-solution",
+    "path": "proteksi-meter/products/3-way-solution",
     "label": "3 Way Solution"
   },
   {
-    "path": "proteksi-meter/solutions/blackout-solution",
-    "label": "Blackout Solution"
-  },
-  {
-    "path": "proteksi-meter/sop-dan-ik-proteksi",
+    "path": "proteksi-meter/products/sop-dan-ik-proteksi",
     "label": "SOP dan IK Proteksi"
   },
   {
-    "path": "proteksi-meter/kinerja-proteksi-meter",
-    "label": "Kinerja Proteksi & Meter"
-  },
-  {
-    "path": "proteksi-meter/pending-item-proteksi",
+    "path": "proteksi-meter/products/pending-item-proteksi",
     "label": "Pending Item Proteksi"
   },
   {

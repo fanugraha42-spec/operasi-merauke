@@ -57,7 +57,9 @@ create policy portal_sources_public_edit on public.portal_sheet_sources
 -- Idempotent: rerunning the script never replaces a source edited by a visitor.
 insert into public.portal_sheet_sources (id,url) values
  ('proteksi-meter/products/settings-ocr-gfr-20-kv','https://docs.google.com/spreadsheets/d/1xjdD4OGKPsp99M9V-p2ytLK7D7o8ylk6/edit?gid=1788085531#gid=1788085531'),
- ('pemeliharaan-em/products/jadwal-padam','https://docs.google.com/spreadsheets/d/1piBDtEZ9kyncJCJS-RAmKsxdtyJ5es49DgybwoQ5M1c/edit?gid=1825013793#gid=1825013793')
+ ('pemeliharaan-em/products/jadwal-padam','https://docs.google.com/spreadsheets/d/1piBDtEZ9kyncJCJS-RAmKsxdtyJ5es49DgybwoQ5M1c/edit?gid=1825013793#gid=1825013793'),
+ ('proteksi-meter/products/data-screening-keypoint','https://docs.google.com/spreadsheets/d/1e7tDeyT8mFmpYdj06IqF8zzSb5SlYoR3tLfxev7hO80/edit?gid=105127280#gid=105127280'),
+ ('proteksi-meter/products/jurnal-dcc','https://docs.google.com/spreadsheets/d/1URLWrbnzua0iJxtBEXE2k2JXQIwufzW5EQqcqDlxtYI/edit?gid=946304004#gid=946304004')
 on conflict (id) do nothing;
 -- Shared tasks start empty. Local/demo tasks are not published automatically.
 commit;
