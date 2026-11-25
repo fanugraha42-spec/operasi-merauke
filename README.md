@@ -107,3 +107,7 @@ Halaman solusi Google Sites berisi artikel native, bukan embed Sheets. Situs sum
 Pending Item adalah daftar temuan bersama: ringkasan temuan/lokasi, PIC, tanggal, target, prioritas, dan status. Status Terbuka/Dalam tindak lanjut/Selesai disimpan sebagai progres 0/50/100. Temuan memakai baris `portal_tasks` dengan ID awalan `pending-proteksi-` dan tim Proteksi & Meter. Awalan tersebut mengidentifikasi jenis temuan; temuan tidak ikut dihitung atau ditampilkan pada dashboard/timeline pekerjaan umum. Mekanisme revision dan sinkronisasi 10 detik tetap digunakan. **Tidak perlu menjalankan SQL atau membuat tabel baru untuk fitur Pending Item.**
 
 Sumber diperiksa pada 25 November 2026. Pengujian tambahan ada di `tests/protection.test.js` dan uji sinkronisasi temuan di `tests/shared-store.test.js`.
+
+### Navigasi Proteksi
+
+Nama menu utama menjadi **Proteksi**. Ketiga belas halaman ditampilkan langsung di bawah Proteksi, tanpa kelompok Products. Halaman ringkasan Proteksi juga menampilkan langsung 13 kartu tersebut. `parent` pada menu menentukan induk tampilan; path halaman dan kunci sumber Sheets tetap dipertahankan supaya link serta data bersama yang sudah ada tetap bekerja. Bookmark lama `#proteksi-meter/products` dialihkan ke ringkasan Proteksi. Hierarki Pemeliharaan E&M dan Support tetap memakai induknya masing-masing.

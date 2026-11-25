@@ -1,19 +1,26 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
-import {PRODUCT_ROOT,PENDING_ROUTE,protectionSheets,resolveRoute} from '../src/protection.js';
+import {PRODUCT_ROOT,PENDING_ROUTE,protectionSheets,resolveRoute,menuChildren} from '../src/protection.js';
 import {PENDING_PREFIX,isPendingItem,pendingRecord,pendingStatus} from '../src/pending.js';
 import {sheetEmbed} from '../src/lib.js';
 const menus=JSON.parse(await readFile(new URL('../menu.json',import.meta.url),'utf8'));
 const sources=JSON.parse(await readFile(new URL('../src/original-sources.json',import.meta.url),'utf8'));
-test('Products contains exactly the 13 requested pages, with no duplicate protection branches',()=>{
- const children=menus.filter(m=>m.path.startsWith(PRODUCT_ROOT));
+test('Proteksi exposes exactly the 13 requested pages as direct children without Products',()=>{
+ const children=menuChildren(menus,'proteksi-meter');
+ assert.equal(menus.find(m=>m.path==='proteksi-meter').label,'Proteksi');
+ assert.ok(!menus.some(m=>m.path==='proteksi-meter/products'));
+ assert.ok(children.every(m=>menuChildren(menus,m.path).length===0));
  assert.deepEqual(children.map(m=>m.label),['Setting OCR / GFR','Setting UFR','Setting Sectionalizer','Data Screening Keypoint','Fault Locator','Feeder Underbuilt','Jurnal DCC','Sectionalizer Solution','Recloser Solution','Relay Solution','3 Way Solution','SOP dan IK Proteksi','Pending Item Proteksi']);
  assert.equal(new Set(menus.map(m=>m.path)).size,menus.length);
  assert.ok(!menus.some(m=>m.path.startsWith('proteksi-meter/solutions')));
  assert.ok(menus.some(m=>m.path==='pemeliharaan-em/products/jadwal-padam'));
 });
 test('old bookmarks open the relocated pages and OCR path is preserved',()=>{
+ assert.equal(resolveRoute('proteksi-meter/products'),'proteksi-meter');
+ assert.equal(resolveRoute('proteksi-meter/solutions'),'proteksi-meter');
+ assert.ok(menuChildren(menus,'pemeliharaan-em').some(m=>m.path==='pemeliharaan-em/products'));
+ assert.equal(menuChildren(menus,'pemeliharaan-em/products').length,4);
  assert.equal(resolveRoute('proteksi-meter/solutions/relay-solution'),PRODUCT_ROOT+'relay-solution');
  assert.equal(resolveRoute('proteksi-meter/sop-dan-ik-proteksi'),PRODUCT_ROOT+'sop-dan-ik-proteksi');
  assert.equal(resolveRoute('proteksi-meter/pending-item-proteksi'),PENDING_ROUTE);

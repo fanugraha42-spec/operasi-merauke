@@ -5,63 +5,72 @@
   },
   {
     "path": "proteksi-meter",
-    "label": "Proteksi & Meter"
-  },
-  {
-    "path": "proteksi-meter/products",
-    "label": "Products"
+    "label": "Proteksi"
   },
   {
     "path": "proteksi-meter/products/settings-ocr-gfr-20-kv",
-    "label": "Setting OCR / GFR"
+    "label": "Setting OCR / GFR",
+    "parent": "proteksi-meter"
   },
   {
     "path": "proteksi-meter/products/settings-ufr-defence-scheme",
-    "label": "Setting UFR"
+    "label": "Setting UFR",
+    "parent": "proteksi-meter"
   },
   {
     "path": "proteksi-meter/products/settings-sectionalizer",
-    "label": "Setting Sectionalizer"
+    "label": "Setting Sectionalizer",
+    "parent": "proteksi-meter"
   },
   {
     "path": "proteksi-meter/products/data-screening-keypoint",
-    "label": "Data Screening Keypoint"
+    "label": "Data Screening Keypoint",
+    "parent": "proteksi-meter"
   },
   {
     "path": "proteksi-meter/products/fault-locator",
-    "label": "Fault Locator"
+    "label": "Fault Locator",
+    "parent": "proteksi-meter"
   },
   {
     "path": "proteksi-meter/products/feeder-underbuilt",
-    "label": "Feeder Underbuilt"
+    "label": "Feeder Underbuilt",
+    "parent": "proteksi-meter"
   },
   {
     "path": "proteksi-meter/products/jurnal-dcc",
-    "label": "Jurnal DCC"
+    "label": "Jurnal DCC",
+    "parent": "proteksi-meter"
   },
   {
     "path": "proteksi-meter/products/sectionalizer-solution",
-    "label": "Sectionalizer Solution"
+    "label": "Sectionalizer Solution",
+    "parent": "proteksi-meter"
   },
   {
     "path": "proteksi-meter/products/recloser-solution",
-    "label": "Recloser Solution"
+    "label": "Recloser Solution",
+    "parent": "proteksi-meter"
   },
   {
     "path": "proteksi-meter/products/relay-solution",
-    "label": "Relay Solution"
+    "label": "Relay Solution",
+    "parent": "proteksi-meter"
   },
   {
     "path": "proteksi-meter/products/3-way-solution",
-    "label": "3 Way Solution"
+    "label": "3 Way Solution",
+    "parent": "proteksi-meter"
   },
   {
     "path": "proteksi-meter/products/sop-dan-ik-proteksi",
-    "label": "SOP dan IK Proteksi"
+    "label": "SOP dan IK Proteksi",
+    "parent": "proteksi-meter"
   },
   {
     "path": "proteksi-meter/products/pending-item-proteksi",
-    "label": "Pending Item Proteksi"
+    "label": "Pending Item Proteksi",
+    "parent": "proteksi-meter"
   },
   {
     "path": "pemeliharaan-em",
