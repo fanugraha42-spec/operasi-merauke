@@ -1,9 +1,9 @@
 import test from 'node:test';import assert from 'node:assert/strict';import {readFile} from 'node:fs/promises';
 const sources=JSON.parse(await readFile(new URL('../src/original-sources.json',import.meta.url),'utf8'));
 const menus=JSON.parse(await readFile(new URL('../menu.json',import.meta.url),'utf8'));
-const pages=menus.filter(m=>m.path==='support/wiring-diagram-keypoint'||m.path.startsWith('support/manual-book-')||m.path==='support/software'||m.path.startsWith('support/software/'));
-test('all 18 requested Support pages retain their original source and nonempty catalogs',()=>{
- assert.equal(pages.length,18);
+const pages=menus.filter(m=>['support/wiring-diagram-cubicle','support/wiring-diagram-keypoint'].includes(m.path)||m.path.startsWith('support/manual-book-')||m.path==='support/software'||m.path.startsWith('support/software/'));
+test('all 19 requested Support pages retain their original source and nonempty catalogs',()=>{
+ assert.equal(pages.length,19);
  for(const page of pages){const source=sources[page.path];assert.equal(source.url,'https://sites.google.com/view/harpro-up2dkalbar/'+page.path);assert.ok(source.resources.length>0);assert.ok(source.resources.every(r=>r.title.trim()&&r.url.startsWith('https://')));}
 });
 test('previews refer to the same source file or folder, never a replacement document',()=>{

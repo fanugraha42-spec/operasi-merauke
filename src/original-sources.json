@@ -1138,5 +1138,285 @@
         "embed": "https://drive.google.com/file/d/10D9NWg4qcS210ZtG2dyad18Uh8sud67Z/preview"
       }
     ]
+  },
+  "support/wiring-diagram-cubicle": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/wiring-diagram-cubicle",
+    "resources": [
+      {
+        "url": "https://drive.google.com/file/d/1OqiIqYi_RB-mnKUecXMnhhlj2OOoxCug/view?usp=sharing",
+        "title": "ABB ZS1 (GI Parit Baru)",
+        "embed": "https://drive.google.com/file/d/1OqiIqYi_RB-mnKUecXMnhhlj2OOoxCug/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1HECGL9Oh_VPV0ReQRq0jHZGEBAPm9X5A/view?usp=sharing",
+        "title": "ABB; UNISWITCH; CBC",
+        "embed": "https://drive.google.com/file/d/1HECGL9Oh_VPV0ReQRq0jHZGEBAPm9X5A/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1q1Kq02w2MsaRq0TYdVGuIyNMgqetuMtl/view?usp=share_link",
+        "title": "ABB Safe Plus (V)",
+        "embed": "https://drive.google.com/file/d/1q1Kq02w2MsaRq0TYdVGuIyNMgqetuMtl/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/15sufQHDZEFc6L11NtdeFaiZStaPNyvr4/view?usp=share_link",
+        "title": "GAE Metalclad 25 kA - Kalbar 1",
+        "embed": "https://drive.google.com/file/d/15sufQHDZEFc6L11NtdeFaiZStaPNyvr4/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1oe75yxjjZ04v8I-NJ7kYG8yALCmW5vBK/view?usp=sharing",
+        "title": "GAE Metalclad 25kA - Kalbar",
+        "embed": "https://drive.google.com/file/d/1oe75yxjjZ04v8I-NJ7kYG8yALCmW5vBK/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/11ZJfUFedZrqpPXkX8xI8wvjkQswNsCXv",
+        "title": "GAE Metalclad 25 kA - Sumbar",
+        "embed": "https://drive.google.com/embeddedfolderview?id=11ZJfUFedZrqpPXkX8xI8wvjkQswNsCXv#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1HxvnpIVYg3s34RZ8IxAl005ZANLLOlf9/view?usp=drive_link",
+        "title": "GAE Metalclad 25 kA - Jabar",
+        "embed": "https://drive.google.com/file/d/1HxvnpIVYg3s34RZ8IxAl005ZANLLOlf9/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1217gTpkGrkTKm8J0jldFXyGwujpOlPoB/view?usp=share_link",
+        "title": "GAE F35",
+        "embed": "https://drive.google.com/file/d/1217gTpkGrkTKm8J0jldFXyGwujpOlPoB/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1NXAOae0T29qNvxUOQPmbWtja496SD6q4/view?usp=share_link",
+        "title": "EGA CAKRA NR9691; 110VDC (GH Menyurai)",
+        "embed": "https://drive.google.com/file/d/1NXAOae0T29qNvxUOQPmbWtja496SD6q4/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1JQFMw_GWkUWUEZn8DLlkW5XJiPQrjzZB/view?usp=share_link",
+        "title": "EGA CAKRA P123; 110VDC (GH Sei Jawi)",
+        "embed": "https://drive.google.com/file/d/1JQFMw_GWkUWUEZn8DLlkW5XJiPQrjzZB/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1xR-qpJrlY1pJUwrevgMSrYxXakRoBFb-/view?usp=share_link",
+        "title": "EGA PBC 7SR10; 220VAC",
+        "embed": "https://drive.google.com/file/d/1xR-qpJrlY1pJUwrevgMSrYxXakRoBFb-/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1whfZRsKLVCQkYYX4Rrkq9NUkMcwP_3Mf/view?usp=sharing",
+        "title": "EGA PBC 7SR10; 110VDC",
+        "embed": "https://drive.google.com/file/d/1whfZRsKLVCQkYYX4Rrkq9NUkMcwP_3Mf/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1i15Z2YiHvLuIyfSsMoN_jxfLNGrOVO08/view?usp=share_link",
+        "title": "EGA PBC NR9691; 110VDC",
+        "embed": "https://drive.google.com/file/d/1i15Z2YiHvLuIyfSsMoN_jxfLNGrOVO08/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/19CjKXKwupdnL5BEq1FwcSazNCP8f8hTZ/view?usp=share_link",
+        "title": "EGA PBC P123; 110VDC",
+        "embed": "https://drive.google.com/file/d/19CjKXKwupdnL5BEq1FwcSazNCP8f8hTZ/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/137XGFw101tPJDXJgY8uBlTd3pPmNXNPI/view?usp=drive_link",
+        "title": "EGA PBC Lateral 7SR10; Coil 48 VDC; Motor 110VDC",
+        "embed": "https://drive.google.com/file/d/137XGFw101tPJDXJgY8uBlTd3pPmNXNPI/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1kgJOGxOlSHO_kk27DQhmJJA4k8srLo0a/view?usp=drive_link",
+        "title": "EGA PBC Status dan Control Custom",
+        "embed": "https://drive.google.com/file/d/1kgJOGxOlSHO_kk27DQhmJJA4k8srLo0a/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/u/0/folders/1ROyxwkQc0LBKe51nsKC7yDYDSwHhAS4r",
+        "title": "EGA PBVT; Fuse",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1ROyxwkQc0LBKe51nsKC7yDYDSwHhAS4r#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1TEAjry9fDIE4YhZt5d-X0iU-aCPdYbW4/view?usp=sharing",
+        "title": "EGA PBL-1R (Non Motorized)",
+        "embed": "https://drive.google.com/file/d/1TEAjry9fDIE4YhZt5d-X0iU-aCPdYbW4/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1qrntV8yoLWVRBgV6NqCtWY62CefrEK2C/view?usp=sharing",
+        "title": "EGA PBL-1R (Motorized)",
+        "embed": "https://drive.google.com/file/d/1qrntV8yoLWVRBgV6NqCtWY62CefrEK2C/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1mPylJqdoMSjtyWo0SnycrH5Otqjp6Wj3/view?usp=share_link",
+        "title": "EGA (GI Sei Raya)",
+        "embed": "https://drive.google.com/file/d/1mPylJqdoMSjtyWo0SnycrH5Otqjp6Wj3/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1ru5IhihvTmzf8c7wLgFuRfxKXNAEcs9A/view?usp=sharing",
+        "title": "SE SM6 GH Ngabang (Incoming)",
+        "embed": "https://drive.google.com/file/d/1ru5IhihvTmzf8c7wLgFuRfxKXNAEcs9A/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1wuKpV3gVo3PH06QHPPF9FXln_Nar328v/view?usp=sharing",
+        "title": "SE SM6; Incoming; Coil 220VAC (GH Ngabang)",
+        "embed": "https://drive.google.com/file/d/1wuKpV3gVo3PH06QHPPF9FXln_Nar328v/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1a1jyrg9zC3Jjo1igKvoGB3GfzoT0XV3n/view?usp=sharing",
+        "title": "SE DM1A; OG; P127; Cikarang",
+        "embed": "https://drive.google.com/file/d/1a1jyrg9zC3Jjo1igKvoGB3GfzoT0XV3n/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1KJQq4NxCkMu0C2D_pWFPkhbpOXFac54l/view?usp=sharing",
+        "title": "SE SM6 GH Ngabang (DS, Outgoing)",
+        "embed": "https://drive.google.com/file/d/1KJQq4NxCkMu0C2D_pWFPkhbpOXFac54l/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1xIUvFL961VumBlVGmMvI04Trmm2FGIQq/view?usp=sharing",
+        "title": "SE DM1A; Incoming; S80; Coil 110VDC",
+        "embed": "https://drive.google.com/file/d/1xIUvFL961VumBlVGmMvI04Trmm2FGIQq/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1W3VCYhLd7spS2Dm3pas50zlBcFcYywAZ/view?usp=sharing",
+        "title": "SE DM1A; Incoming; LBS",
+        "embed": "https://drive.google.com/file/d/1W3VCYhLd7spS2Dm3pas50zlBcFcYywAZ/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1302jRmS16ThzPN8rqu_xuEqttVILus8f/view?usp=sharing",
+        "title": "SE DM1A; Outgoing; S40; Coil AC/DC",
+        "embed": "https://drive.google.com/file/d/1302jRmS16ThzPN8rqu_xuEqttVILus8f/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1jLMdpSkti_VH0Gs8WmXwg5qThrWnYagX/view?usp=sharing",
+        "title": "SE SM6; S20; Coil 110VDC (GH Sandai)",
+        "embed": "https://drive.google.com/file/d/1jLMdpSkti_VH0Gs8WmXwg5qThrWnYagX/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1tHtEGAixAoxEd9_HxxFxfA3wQLbeCa7G/view?usp=sharing",
+        "title": "SE DM1A; SAS; EASERGY; CIKARANG",
+        "embed": "https://drive.google.com/file/d/1tHtEGAixAoxEd9_HxxFxfA3wQLbeCa7G/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1YYqXMO4uDu_9mEmGN7ehsUA_UuaWXhQb/view?usp=sharing",
+        "title": "SE MCSet (GI Sei Raya)",
+        "embed": "https://drive.google.com/file/d/1YYqXMO4uDu_9mEmGN7ehsUA_UuaWXhQb/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1bf1cBWCMhQLmUhDYjg65Yd5mwaIatwfv/view?usp=drive_link",
+        "title": "SE SM6; ACOS; C264; INC-1",
+        "embed": "https://drive.google.com/file/d/1bf1cBWCMhQLmUhDYjg65Yd5mwaIatwfv/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1CpLgdKGxAzvgXpPA6I9wl78t4A0pKubT/view?usp=drive_link",
+        "title": "SE SM6; ACOS; C264; INC-2",
+        "embed": "https://drive.google.com/file/d/1CpLgdKGxAzvgXpPA6I9wl78t4A0pKubT/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1KPWZxfhzER5uBxauwK4_9ygY2feBiDX5/view?usp=sharing",
+        "title": "SE SM6; ACOS; SCH T200",
+        "embed": "https://drive.google.com/file/d/1KPWZxfhzER5uBxauwK4_9ygY2feBiDX5/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1cxYsVRty2PK4Kbjf266pUidlsiK3wyQa/view?usp=drive_link",
+        "title": "SE; PIX; Outgoing; 2012",
+        "embed": "https://drive.google.com/file/d/1cxYsVRty2PK4Kbjf266pUidlsiK3wyQa/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1OOlmX6vyVk1SHEyB073YleMDMXa47sXx?usp=sharing",
+        "title": "SE; PIX (GI Sintang); Complete",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1OOlmX6vyVk1SHEyB073YleMDMXa47sXx#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1K1j30vXCQP_RuzEM4GKQfV1tSaYf3pXY/view?usp=share_link",
+        "title": "SE PIX24",
+        "embed": "https://drive.google.com/file/d/1K1j30vXCQP_RuzEM4GKQfV1tSaYf3pXY/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/13Kqi_uaRpBTdsm4vSGHcviZ6_gvyoXEY/view?usp=drive_link",
+        "title": "SE RM6",
+        "embed": "https://drive.google.com/file/d/13Kqi_uaRpBTdsm4vSGHcviZ6_gvyoXEY/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/13Kqi_uaRpBTdsm4vSGHcviZ6_gvyoXEY/view?usp=drive_link",
+        "title": "SE PIX24; 2017",
+        "embed": "https://drive.google.com/file/d/13Kqi_uaRpBTdsm4vSGHcviZ6_gvyoXEY/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1iq0Uwx-veog798qD99N6Mh48R8noY5yR/view?usp=drive_link",
+        "title": "SE PIX-24; GI Bungah (JBTB)",
+        "embed": "https://drive.google.com/file/d/1iq0Uwx-veog798qD99N6Mh48R8noY5yR/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/17AiYurwIk0xYStqJQb8wowNAqyRYOp79/view?usp=sharing",
+        "title": "Siemens Simoprime A4 (GI Sei Raya)",
+        "embed": "https://drive.google.com/file/d/17AiYurwIk0xYStqJQb8wowNAqyRYOp79/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1-XDBneDEvHPse9nYq4kF20vr6kWyg4sD/view?usp=sharing",
+        "title": "Siemens BBJ20 (GH Kuala Dua)",
+        "embed": "https://drive.google.com/file/d/1-XDBneDEvHPse9nYq4kF20vr6kWyg4sD/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1DrSqgikJEgPscminLnWYw2luTaxvJ1x9/view?usp=sharing",
+        "title": "SIEMENS 8DJH-L (AG)",
+        "embed": "https://drive.google.com/file/d/1DrSqgikJEgPscminLnWYw2luTaxvJ1x9/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1mMyd4ixf-9zQQIZCAlfRsCudvPuytbpd/view?usp=sharing",
+        "title": "Siemens JZ01 (GI Bengkayang)",
+        "embed": "https://drive.google.com/file/d/1mMyd4ixf-9zQQIZCAlfRsCudvPuytbpd/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1epiCQSMAZ_c6DafPwR5_NVXql_ve0y3x/view?usp=share_link",
+        "title": "Siemens AG",
+        "embed": "https://drive.google.com/file/d/1epiCQSMAZ_c6DafPwR5_NVXql_ve0y3x/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Su4sqKRWh2bXZx_we1gw4-IKSr6XVJYo/view?usp=share_link",
+        "title": "Siemens (PLTD Sambas)",
+        "embed": "https://drive.google.com/file/d/1Su4sqKRWh2bXZx_we1gw4-IKSr6XVJYo/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1GQzR6eBJNAjvpfTX_zl1q3eyR44Xzo-N/view?usp=drive_link",
+        "title": "Siemens NXAIR SION (PLTU 1 IPP)",
+        "embed": "https://drive.google.com/file/d/1GQzR6eBJNAjvpfTX_zl1q3eyR44Xzo-N/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1bW5x5mm4AeFguoQ-prLsZ-vUkViSuE63?usp=drive_link",
+        "title": "Siemens 8DJH (Bali dan Kaltimra)",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1bW5x5mm4AeFguoQ-prLsZ-vUkViSuE63#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/10k5cMzSVJ4cBqrHqhkyYVW4m3k-o2lGG/view?usp=share_link",
+        "title": "Areva (GI Kota Baru)",
+        "embed": "https://drive.google.com/file/d/10k5cMzSVJ4cBqrHqhkyYVW4m3k-o2lGG/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1UpJseCfjMUMvBS7BEi8xdOvtvAj51yXT/view?usp=sharing",
+        "title": "DC Source (UP3 Sanggau)",
+        "embed": "https://drive.google.com/file/d/1UpJseCfjMUMvBS7BEi8xdOvtvAj51yXT/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1zYGhIi3_0u1WKiYfEOXlzdrBO0K4agnd/view?usp=sharing",
+        "title": "GEN. CONTROL PANEL (GI Tello)",
+        "embed": "https://drive.google.com/file/d/1zYGhIi3_0u1WKiYfEOXlzdrBO0K4agnd/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/17SGha5N4bU2vD3kFy9ogJoNKUTqIzwCv/view?usp=sharing",
+        "title": "LV Panel GH Cemara",
+        "embed": "https://drive.google.com/file/d/17SGha5N4bU2vD3kFy9ogJoNKUTqIzwCv/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1VyJ2hFdD5pctNMmDCAapglOncaNq3SwD/view?usp=share_link",
+        "title": "Modalek (GI Sei Raya)",
+        "embed": "https://drive.google.com/file/d/1VyJ2hFdD5pctNMmDCAapglOncaNq3SwD/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1q7grlJmRSAKsvNWJLZ-Drk7RRgkG7rwc/view?usp=sharing",
+        "title": "Simosec; JZ04A; CBM; 110-240VAC",
+        "embed": "https://drive.google.com/file/d/1q7grlJmRSAKsvNWJLZ-Drk7RRgkG7rwc/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1JC8p5McjLkN_p9jxFKiSp9VmCN58MEvN/view?usp=drive_link",
+        "title": "Ulusoy; MMH24-01",
+        "embed": "https://drive.google.com/file/d/1JC8p5McjLkN_p9jxFKiSp9VmCN58MEvN/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1NZGaaenGgHrLNCvxk7mdL9-esFWB_4TT/view?usp=share_link",
+        "title": "Wiring OLS GH Kuala Dua",
+        "embed": "https://drive.google.com/file/d/1NZGaaenGgHrLNCvxk7mdL9-esFWB_4TT/preview"
+      }
+    ]
   }
 }

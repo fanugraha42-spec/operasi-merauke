@@ -129,3 +129,5 @@ Wiring Diagram Keypoint, empat halaman Manual Book, halaman Software, dan 12 sub
 Berkas/folder Drive yang mendukungnya ditampilkan lewat preview; link unduhan ABB, Schneider dan sumber eksternal lain dibuka pada penyedianya. Semua sumber dapat dibuka langsung melalui tombol Buka sumber. Akses tetap mengikuti izin pemilik; portal tidak menyalin berkas, mengubah izin, atau menjalankan software/firmware. Daftar sumber dapat dicari berdasarkan nama/versi. Halaman Software tetap menampilkan semua tombol submenunya di atas katalog utama.
 
 Validasi meliputi kelengkapan 18 halaman, konsistensi ID berkas pada preview, vendor downloads, dan keberadaan 12 katalog submenu. Isi serta keberhasilan unduhan setiap berkas pihak ketiga belum diverifikasi.
+
+Wiring Diagram Cubicle juga terhubung ke 55 referensi sumber asli dari halaman Har-Pro, dengan pencarian nama, preview bila tersedia, dan tautan langsung ke berkas asli.
