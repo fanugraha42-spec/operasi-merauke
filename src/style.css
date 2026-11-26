@@ -183,3 +183,13 @@ button:disabled { cursor: wait; opacity: .6; }
 .category-tabs button span { font-size:10px; border-radius:5px; padding:2px 5px; background:#e1dfd9; }
 .category-tabs button.category-active { background:#f8f7f3; color:#292b27; font-weight:650; box-shadow:0 2px 5px #0001; }
 @media (max-width:760px) { .heading-actions { margin-top:18px; } .category-tabs button { font-size:12px; } }
+
+.source-submenus { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:20px; }
+.source-submenus .secondary { white-space:normal; text-align:left; }
+.reference-catalog { min-width:0; }
+.reference-search { display:flex; gap:8px; align-items:center; background:#eae7e2; padding:10px; border-radius:8px; margin-bottom:9px; }
+.reference-search input { background:transparent; border:0; width:100%; min-width:0; font-size:12px; outline:none; }
+.reference-catalog > small { display:block; margin:8px 0 12px; }
+.reference-catalog .reference-list { display:flex; flex-direction:column; max-height:65vh; overflow-y:auto; }
+.reference-choice span { overflow-wrap:anywhere; min-width:0; }
+@media(max-width:1050px) { .reference-catalog .reference-list { max-height:260px; } }

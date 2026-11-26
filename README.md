@@ -121,3 +121,11 @@ Task Monitoring mempunyai lima tab kategori. Tambah pekerjaan memakai kategori t
 **Untuk database yang sudah berjalan**, jalankan `supabase/migrations/20261126_task_categories.sql` di SQL Editor Supabase. Ini menambah kolom kategori tanpa menghapus pekerjaan lama. Instalasi baru dapat memakai schema.sql. Tanpa migrasi, pembacaan data lama tetap tersedia, tetapi simpan pekerjaan berkategori menampilkan instruksi migrasi.
 
 Ikon ekspor ada di kanan Tambah pekerjaan. XLSX berisi Seluruh Pekerjaan (semua kategori), Tampilan Aktif (tab dan filter aktif), Rekap Kategori, serta Keterangan. Pending Item Proteksi tidak masuk rekap tugas. Tanggal berupa date Excel, progres numerik berformat persen, durasi numerik, baris header dibekukan, dan autofilter tersedia. Label ruang kerja bersama di atas monitoring dihapus.
+
+## Sumber asli Support
+
+Wiring Diagram Keypoint, empat halaman Manual Book, halaman Software, dan 12 submenu Software memakai sumber asli yang diambil dari Har-Pro pada 26 November 2026. Terdapat 186 referensi berlabel di 18 halaman (sebagian dapat menunjuk berkas yang sama). URL halaman dan sumber disimpan di `src/original-sources.json`.
+
+Berkas/folder Drive yang mendukungnya ditampilkan lewat preview; link unduhan ABB, Schneider dan sumber eksternal lain dibuka pada penyedianya. Semua sumber dapat dibuka langsung melalui tombol Buka sumber. Akses tetap mengikuti izin pemilik; portal tidak menyalin berkas, mengubah izin, atau menjalankan software/firmware. Daftar sumber dapat dicari berdasarkan nama/versi. Halaman Software tetap menampilkan semua tombol submenunya di atas katalog utama.
+
+Validasi meliputi kelengkapan 18 halaman, konsistensi ID berkas pada preview, vendor downloads, dan keberadaan 12 katalog submenu. Isi serta keberhasilan unduhan setiap berkas pihak ketiga belum diverifikasi.

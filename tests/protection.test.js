@@ -29,12 +29,12 @@ test('old bookmarks open the relocated pages and OCR path is preserved',()=>{
 test('new Sheets retain their selected tabs and each original reference has resources',()=>{
  assert.match(sheetEmbed(protectionSheets[PRODUCT_ROOT+'data-screening-keypoint']),/gid=105127280$/);
  assert.match(sheetEmbed(protectionSheets[PRODUCT_ROOT+'jurnal-dcc']),/gid=946304004$/);
- assert.equal(Object.keys(sources).length,5);
+ assert.equal(Object.keys(sources).filter(path=>path.startsWith(PRODUCT_ROOT)).length,5);
  for(const [path,source] of Object.entries(sources)){
   assert.ok(menus.some(m=>m.path===path));
   assert.ok(source.url.startsWith('https://sites.google.com/view/harpro-up2dkalbar/'));
   assert.ok(source.resources.length);
-  for(const resource of source.resources)assert.ok(resource.embed.startsWith('https://drive.google.com/'));
+  for(const resource of source.resources){assert.ok(resource.url.startsWith('https://'));if(resource.embed)assert.ok(resource.embed.startsWith('https://drive.google.com/')||resource.embed.startsWith('https://docs.google.com/'));}
  }
 });
 const fields={title:' Indikator trip padam · GH Merauke ',owner:' Tim Proteksi ',start:'2026-11-25',end:'2026-11-26',progress:'0',priority:'Tinggi'};

@@ -118,5 +118,1025 @@
         "embed": "https://drive.google.com/file/d/1Pg_IAbstQ5l-nnLasaGyUTpDgE5j50GP/preview"
       }
     ]
+  },
+  "support/wiring-diagram-keypoint": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/wiring-diagram-keypoint",
+    "resources": [
+      {
+        "url": "https://drive.google.com/file/d/1tl_iFUH83-8QTRftg6fafLoP1lVLJ9O7/view?usp=sharing",
+        "title": "ABB REC (LBS 2 Way)",
+        "embed": "https://drive.google.com/file/d/1tl_iFUH83-8QTRftg6fafLoP1lVLJ9O7/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1dxO4nr5yneaUO2iI_za-_twujAVino8d/view?usp=sharing",
+        "title": "ABB REC523 (LBS 3 Way)",
+        "embed": "https://drive.google.com/file/d/1dxO4nr5yneaUO2iI_za-_twujAVino8d/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1kxUt3dyod6dGwdy1SNMiM_07zw6od-Y0/view?usp=sharing",
+        "title": "ABB REC615 (LBS 3 Way)",
+        "embed": "https://drive.google.com/file/d/1kxUt3dyod6dGwdy1SNMiM_07zw6od-Y0/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1tvwLiwQFJYB2j9orykcyIU5hUHUtvleR/view?usp=drive_link",
+        "title": "ABB REC615 (LBS 3 Way) New Ver.",
+        "embed": "https://drive.google.com/file/d/1tvwLiwQFJYB2j9orykcyIU5hUHUtvleR/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Nuewt2iCkya0eNnaic-CNW7x0MVhcuC2/view?usp=drive_link",
+        "title": "ABB Xiamen Switchgear (LBS 3 Way)",
+        "embed": "https://drive.google.com/file/d/1Nuewt2iCkya0eNnaic-CNW7x0MVhcuC2/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1meZ0_NG-VQVBhrcHu8JLIIglHA-FqIWI/view?usp=sharing",
+        "title": "Cooper FXD2000 (SSO)",
+        "embed": "https://drive.google.com/file/d/1meZ0_NG-VQVBhrcHu8JLIIglHA-FqIWI/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1opHoOFTsPgXngktSlIsvWQO2YUCaHPwn/view?usp=share_link",
+        "title": "Cooper FXD2000 New (SSO)",
+        "embed": "https://drive.google.com/file/d/1opHoOFTsPgXngktSlIsvWQO2YUCaHPwn/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/18MHdY8CowSClVbMfkbkk_XO-HKVZOKCi/view?usp=sharing",
+        "title": "CVD Connection (LBS 3 Way)",
+        "embed": "https://drive.google.com/file/d/18MHdY8CowSClVbMfkbkk_XO-HKVZOKCi/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1yCtm9hXaawPNzPl_l4_kWMf2mvck7Uha/view?usp=sharing",
+        "title": "Dummy Breaker Cooper FXD",
+        "embed": "https://drive.google.com/file/d/1yCtm9hXaawPNzPl_l4_kWMf2mvck7Uha/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1qOpYHpMzo-taDIgiQRULxbPXWfVbDwZf/view?usp=share_link",
+        "title": "ENTEC EVRC2A-NT610",
+        "embed": "https://drive.google.com/file/d/1qOpYHpMzo-taDIgiQRULxbPXWfVbDwZf/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1vZ1L1JwDNAlvYM8Aq8X-SfViHQA9-IaF/view?usp=share_link",
+        "title": "FTU INES (Recloser)",
+        "embed": "https://drive.google.com/file/d/1vZ1L1JwDNAlvYM8Aq8X-SfViHQA9-IaF/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1LOSuCX9KkMzoGn87JKRykI6Mna1TXjwZ/view?usp=sharing",
+        "title": "Joongwon FTU-P200 (SSO) - as build",
+        "embed": "https://drive.google.com/file/d/1LOSuCX9KkMzoGn87JKRykI6Mna1TXjwZ/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1uC1sYIZ9lJaVinlZnYmJnDfsTkZDv-Ys/view?usp=sharing",
+        "title": "Joongwon FTU-P200 (SSO) - draft",
+        "embed": "https://drive.google.com/file/d/1uC1sYIZ9lJaVinlZnYmJnDfsTkZDv-Ys/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/16Xcd_Wjhqu9BD_W3V0pwYoZ9w9FHjvp4/view?usp=sharing",
+        "title": "Joongwon FTU-R200 (Recloser)",
+        "embed": "https://drive.google.com/file/d/16Xcd_Wjhqu9BD_W3V0pwYoZ9w9FHjvp4/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1FZypQHL_lzjFjd9erFcPdQTCSLgXZJ58/view?usp=sharing",
+        "title": "Joongwon (3 Way; ALTS)",
+        "embed": "https://drive.google.com/file/d/1FZypQHL_lzjFjd9erFcPdQTCSLgXZJ58/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Hh4qHhZC1eaJrNWpIZre-byLsAVf3UoV/view?usp=sharing",
+        "title": "Marina Jin Kwang (FTU-P200)",
+        "embed": "https://drive.google.com/file/d/1Hh4qHhZC1eaJrNWpIZre-byLsAVf3UoV/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/179sJWLsJk6til6X1j5NOgT25iq-41fVU/view?usp=sharing",
+        "title": "Neopis Epic D300",
+        "embed": "https://drive.google.com/file/d/179sJWLsJk6til6X1j5NOgT25iq-41fVU/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1jV6uX2l2JxLSy-7AI7tnEYfNkXo9OiD8/view?usp=drive_link",
+        "title": "Neopis Epic D300 v.2.2.0.6",
+        "embed": "https://drive.google.com/file/d/1jV6uX2l2JxLSy-7AI7tnEYfNkXo9OiD8/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/13OC4QGf0zhP7hr4vbKpg5EKcT9DIFC2Q/view?usp=drive_link",
+        "title": "Neopis R300",
+        "embed": "https://drive.google.com/file/d/13OC4QGf0zhP7hr4vbKpg5EKcT9DIFC2Q/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1ycKBjMuXAAdls4N_lcSvyVP6UbeUYgRY/view?usp=drive_link",
+        "title": "PMCB Micom P127",
+        "embed": "https://drive.google.com/file/d/1ycKBjMuXAAdls4N_lcSvyVP6UbeUYgRY/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1bNWiBkJcZoe-lnzTCQjZa6SutqT4xbwH/view?usp=sharing",
+        "title": "PTCC (Motor Pack & Wiring)",
+        "embed": "https://drive.google.com/file/d/1bNWiBkJcZoe-lnzTCQjZa6SutqT4xbwH/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/19drqyv5teE_ljKcpKszUYpVEBoGuWHuW/view?usp=sharing",
+        "title": "Shinsung SIREC VIT Polymer R6",
+        "embed": "https://drive.google.com/file/d/19drqyv5teE_ljKcpKszUYpVEBoGuWHuW/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1sxYoQOr4f4cjDEuZahzJA5uumn5ZRo4i/view?usp=sharing",
+        "title": "Siecom",
+        "embed": "https://drive.google.com/file/d/1sxYoQOr4f4cjDEuZahzJA5uumn5ZRo4i/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1F3OsMdL-1fiROt3iyIwKAEkkvQ0TAiBI/view?usp=sharing",
+        "title": "Sintra FTU-P200C (SSO)",
+        "embed": "https://drive.google.com/file/d/1F3OsMdL-1fiROt3iyIwKAEkkvQ0TAiBI/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/14jmAuCKTwoNaNu9JT9K0wic9jHDqGnHn/view?usp=sharing",
+        "title": "Techpro RT-200P (SSO)",
+        "embed": "https://drive.google.com/file/d/14jmAuCKTwoNaNu9JT9K0wic9jHDqGnHn/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/119aWbVtr9KTxcVmVcDOtOmEOvvgSKnq0/view?usp=sharing",
+        "title": "Techpro RT-200P Controller (SSO)",
+        "embed": "https://drive.google.com/file/d/119aWbVtr9KTxcVmVcDOtOmEOvvgSKnq0/preview"
+      }
+    ]
+  },
+  "support/manual-book-relay": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/manual-book-relay",
+    "resources": [
+      {
+        "url": "https://drive.google.com/file/d/1zLsRBvdQPZ1i3YQFWbRC8su6nuhDds3z/view?usp=sharing",
+        "title": "ABB REF 615",
+        "embed": "https://drive.google.com/file/d/1zLsRBvdQPZ1i3YQFWbRC8su6nuhDds3z/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1QwvbZPlMr5fLXLo4-Oh5XKRCpJux8SVu/view?usp=sharing",
+        "title": "ABB REG 630",
+        "embed": "https://drive.google.com/file/d/1QwvbZPlMr5fLXLo4-Oh5XKRCpJux8SVu/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1yaZk5SsMlmdlWbH65teDULmh1pvWzSjI/view?usp=sharing",
+        "title": "ABB REG 650",
+        "embed": "https://drive.google.com/file/d/1yaZk5SsMlmdlWbH65teDULmh1pvWzSjI/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Ecl6Nt-JIllwAqMB5_XTNakQW8DOzekC/view?usp=sharing",
+        "title": "ABB RET 615",
+        "embed": "https://drive.google.com/file/d/1Ecl6Nt-JIllwAqMB5_XTNakQW8DOzekC/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1FoFLqqWKFHIKHtYgWNBa5O7cMduBi6YF/view?usp=sharing",
+        "title": "ABB SPAJ 140C",
+        "embed": "https://drive.google.com/file/d/1FoFLqqWKFHIKHtYgWNBa5O7cMduBi6YF/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/102a6G0nh4pVWyC9gdRC1W40_2Vxli5Cp/view?usp=sharing",
+        "title": "ABB REC 615",
+        "embed": "https://drive.google.com/file/d/102a6G0nh4pVWyC9gdRC1W40_2Vxli5Cp/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/123Xa0jrsxJB3iJSDLyAlWRifDhMxmvbN/view?usp=sharing",
+        "title": "Alstom MCGG",
+        "embed": "https://drive.google.com/file/d/123Xa0jrsxJB3iJSDLyAlWRifDhMxmvbN/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1FasOX6aSoYloMBy2ZymswRl6agKFi_Nq/view?usp=sharing",
+        "title": "Arcteq AQ F213",
+        "embed": "https://drive.google.com/file/d/1FasOX6aSoYloMBy2ZymswRl6agKFi_Nq/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1oQT2-NpBgh8cbG0am0leOAAaXNSZfVPK/view?usp=sharing",
+        "title": "Areva P63x",
+        "embed": "https://drive.google.com/file/d/1oQT2-NpBgh8cbG0am0leOAAaXNSZfVPK/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/18O8b1062qRY6YpfPTTJoP48GV_Q9qe1i/view?usp=share_link",
+        "title": "Curve Deepsea 5XXX - 7XXX",
+        "embed": "https://drive.google.com/file/d/18O8b1062qRY6YpfPTTJoP48GV_Q9qe1i/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1evQzQo1fA9HiQ7E4DAxqXlqrxjdwO-tu/view?usp=drive_link",
+        "title": "Easergy P3U",
+        "embed": "https://drive.google.com/file/d/1evQzQo1fA9HiQ7E4DAxqXlqrxjdwO-tu/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1WOGml9eS57FiEk2GWoIWOsFmIUtDHHhq/view?usp=share_link",
+        "title": "Easergy T300",
+        "embed": "https://drive.google.com/file/d/1WOGml9eS57FiEk2GWoIWOsFmIUtDHHhq/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1LHdXNxd-naPzuS1AarBOjThy-FPuqZiJ/view?usp=sharing",
+        "title": "GE SR 345",
+        "embed": "https://drive.google.com/file/d/1LHdXNxd-naPzuS1AarBOjThy-FPuqZiJ/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1xeNX6-V6TOW14__NBX3c6Waoc_IQBVrI/view?usp=sharing",
+        "title": "GE SR 350",
+        "embed": "https://drive.google.com/file/d/1xeNX6-V6TOW14__NBX3c6Waoc_IQBVrI/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1MubcZnmhI0dtrQGDrtFdLiXKPF1FYI_v/view?usp=sharing",
+        "title": "GE Multilin 350",
+        "embed": "https://drive.google.com/file/d/1MubcZnmhI0dtrQGDrtFdLiXKPF1FYI_v/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1MubcZnmhI0dtrQGDrtFdLiXKPF1FYI_v/view?usp=sharing",
+        "title": "MG Sepam S40",
+        "embed": "https://drive.google.com/file/d/1MubcZnmhI0dtrQGDrtFdLiXKPF1FYI_v/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/12L-jRZ6JJVYcmjqLJqZglkT7URGKMdKX/view?usp=sharing",
+        "title": "MS MC 30",
+        "embed": "https://drive.google.com/file/d/12L-jRZ6JJVYcmjqLJqZglkT7URGKMdKX/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1nECXg4Bl0SM24Dh8QBZiPJSE8YNM0mhI/view?usp=sharing",
+        "title": "MS FMR-R",
+        "embed": "https://drive.google.com/file/d/1nECXg4Bl0SM24Dh8QBZiPJSE8YNM0mhI/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1EAvo4MFobgLLfK53tPJW_hJ8-fHuNykV/view?usp=sharing",
+        "title": "Nari PCS 9691",
+        "embed": "https://drive.google.com/file/d/1EAvo4MFobgLLfK53tPJW_hJ8-fHuNykV/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/10vFoSP3xDBADA1w9JqufyilxyANPXxI5/view?usp=sharing",
+        "title": "Nari PCS 9691E",
+        "embed": "https://drive.google.com/file/d/10vFoSP3xDBADA1w9JqufyilxyANPXxI5/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/19LircUvNYu2LIHoz5MC_zcdYqkMpXRhy/view?usp=sharing",
+        "title": "Nari NSR 3610",
+        "embed": "https://drive.google.com/file/d/19LircUvNYu2LIHoz5MC_zcdYqkMpXRhy/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1PHW-1GvFapV5Tt9re0K0UdRfK3y8ca67/view?usp=sharing",
+        "title": "Nari PCS 9611",
+        "embed": "https://drive.google.com/file/d/1PHW-1GvFapV5Tt9re0K0UdRfK3y8ca67/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1O53zPNrOFNHeriOFa6h-4VuxW9-chZ9O/view?usp=sharing",
+        "title": "Micom P12x",
+        "embed": "https://drive.google.com/file/d/1O53zPNrOFNHeriOFa6h-4VuxW9-chZ9O/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1jCBkuaidY1-Zh1PFZBBbFP4yj2qK72KX/view?usp=sharing",
+        "title": "Micom P14x",
+        "embed": "https://drive.google.com/file/d/1jCBkuaidY1-Zh1PFZBBbFP4yj2qK72KX/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1aWhIquSiy_hjN1XcgbFiVVrF-h0HeZn4/view?usp=sharing",
+        "title": "Micom P44x",
+        "embed": "https://drive.google.com/file/d/1aWhIquSiy_hjN1XcgbFiVVrF-h0HeZn4/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/13rEpPTO0PtoU1bIF5jY-jpJEeAKFoJtY/view?usp=sharing",
+        "title": "Micom P92x",
+        "embed": "https://drive.google.com/file/d/13rEpPTO0PtoU1bIF5jY-jpJEeAKFoJtY/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1EhnsiE_aGU78IhLAq-yg-wjD2c9diBFl/view?usp=share_link",
+        "title": "Overview ACB Tipe MG dan NW",
+        "embed": "https://drive.google.com/file/d/1EhnsiE_aGU78IhLAq-yg-wjD2c9diBFl/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/146yXZJ5a3qKfS3fuZKDH-1nfJjiioe73/view?usp=sharing",
+        "title": "Sepam S20",
+        "embed": "https://drive.google.com/file/d/146yXZJ5a3qKfS3fuZKDH-1nfJjiioe73/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1hxeYLIyyo8D6YJomQ6FV3L5GWgw-fsmV/view?usp=sharing",
+        "title": "Sepam S40",
+        "embed": "https://drive.google.com/file/d/1hxeYLIyyo8D6YJomQ6FV3L5GWgw-fsmV/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1arx5MGDhLbi7TKwFcW_xv6M7G3xvb6Kw/view?usp=sharing",
+        "title": "Siemens 7SR10",
+        "embed": "https://drive.google.com/file/d/1arx5MGDhLbi7TKwFcW_xv6M7G3xvb6Kw/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1iKJdbmilP_e5uhmZGSqE6n-TTVwLlbb0/view?usp=sharing",
+        "title": "Siemens 7SR2x",
+        "embed": "https://drive.google.com/file/d/1iKJdbmilP_e5uhmZGSqE6n-TTVwLlbb0/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1uGVdpWZ_K1TBlrDN4QAj366qdeqlCUhW/view?usp=sharing",
+        "title": "Vipam 3500C",
+        "embed": "https://drive.google.com/file/d/1uGVdpWZ_K1TBlrDN4QAj366qdeqlCUhW/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/13Lu3eAwwAgrVumfDQuBA-Gm4FDN8COuh/view?usp=sharing",
+        "title": "Vipam 3500C (Modbus Map)",
+        "embed": "https://drive.google.com/file/d/13Lu3eAwwAgrVumfDQuBA-Gm4FDN8COuh/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1a4Gy4yQA-waguVhzYIR9bnJosTS_vyUw/view?usp=sharing",
+        "title": "Vipam 3500C (Simple Manual)",
+        "embed": "https://drive.google.com/file/d/1a4Gy4yQA-waguVhzYIR9bnJosTS_vyUw/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1NH29dwbFpYrBN_F2GEsbd_RUlINBSNnT/view?usp=share_link",
+        "title": "NR PCS 9691 Modbus List",
+        "embed": "https://drive.google.com/file/d/1NH29dwbFpYrBN_F2GEsbd_RUlINBSNnT/preview"
+      },
+      {
+        "url": "https://docs.google.com/spreadsheets/d/17TsRtH1wdd1KJSM2WPIjk7Am3m7eDNna/edit?usp=share_link&ouid=103417982586864569613&rtpof=true&sd=true",
+        "title": "NR PCS 9691 DNP List",
+        "embed": "https://docs.google.com/spreadsheets/d/17TsRtH1wdd1KJSM2WPIjk7Am3m7eDNna/preview"
+      },
+      {
+        "url": "https://docs.google.com/spreadsheets/d/14x_TpUl4vk4xBt2JphS6tbR8dT4bp6Kz/edit?usp=share_link&ouid=103417982586864569613&rtpof=true&sd=true",
+        "title": "NR PCS 9691 IEC61850 List",
+        "embed": "https://docs.google.com/spreadsheets/d/14x_TpUl4vk4xBt2JphS6tbR8dT4bp6Kz/preview"
+      }
+    ]
+  },
+  "support/manual-book-recloser": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/manual-book-recloser",
+    "resources": [
+      {
+        "url": "https://drive.google.com/drive/folders/1z_GSxXt8Rv0g649D_EJWbDOJal8anfld?usp=share_link",
+        "title": "All About PTCC & ADVC",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1z_GSxXt8Rv0g649D_EJWbDOJal8anfld#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/15lH7XaQx9UnxKke3xS4uq1yZ3NkeEep0/view?usp=sharing",
+        "title": "Cooper F6 - Installation & Operation",
+        "embed": "https://drive.google.com/file/d/15lH7XaQx9UnxKke3xS4uq1yZ3NkeEep0/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1MY5zK8Ak23muV9lCxsWHOiMHHY9R770x/view?usp=sharing",
+        "title": "Cooper F6 Programming Guide",
+        "embed": "https://drive.google.com/file/d/1MY5zK8Ak23muV9lCxsWHOiMHHY9R770x/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1P_K0Cz3M7IlxA51ItylgB2I3fihzGDbh/view?usp=sharing",
+        "title": "ENTEC EVRC2A NT610 Rev. 1.10",
+        "embed": "https://drive.google.com/file/d/1P_K0Cz3M7IlxA51ItylgB2I3fihzGDbh/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1IUmImWslFf6aeavvlqLMcwZr7zYYvFuC/view?usp=share_link",
+        "title": "ENTEC Register Comm (Recloser)",
+        "embed": "https://drive.google.com/file/d/1IUmImWslFf6aeavvlqLMcwZr7zYYvFuC/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/18P6C47Drz7yOC0bc13Ul7OQGG_fymR6U/view?usp=share_link",
+        "title": "ENTEC Check & Testing (Recloser)",
+        "embed": "https://drive.google.com/file/d/18P6C47Drz7yOC0bc13Ul7OQGG_fymR6U/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/15ov8LuPIAidXYZ9HXcQRUbCZ5-avT_Gi/view?usp=sharing",
+        "title": "ENTEC EVRC2A Rev. 0",
+        "embed": "https://drive.google.com/file/d/15ov8LuPIAidXYZ9HXcQRUbCZ5-avT_Gi/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1l0NqD4JN318NJOFvFu9_hwPVpUxlPMT3/view?usp=drive_link",
+        "title": "Fault Locator Recloser Joongwon (PNC Tech)",
+        "embed": "https://drive.google.com/file/d/1l0NqD4JN318NJOFvFu9_hwPVpUxlPMT3/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1tLs6AASTrSvURAUMEaxzgjJ8_bxen7vQ/view?usp=sharing",
+        "title": "Joongwon FTU-R200 (Recloser)",
+        "embed": "https://drive.google.com/file/d/1tLs6AASTrSvURAUMEaxzgjJ8_bxen7vQ/preview"
+      },
+      {
+        "url": "https://docs.google.com/spreadsheets/d/1-h-_wndyNsqjrGg7THOR2UNMWMoLnB4a/edit?usp=sharing&ouid=103417982586864569613&rtpof=true&sd=true",
+        "title": "N-Series - List Troubleshooting",
+        "embed": "https://docs.google.com/spreadsheets/d/1-h-_wndyNsqjrGg7THOR2UNMWMoLnB4a/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1Gmn4_Sq_BWo6pDnsq2GimGlabvG0n2Nm?usp=drive_link",
+        "title": "Neopis R300",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1Gmn4_Sq_BWo6pDnsq2GimGlabvG0n2Nm#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1LAJG2oPyG1ROSVzcUhL92Sve2Oh6mXha/view?usp=sharing",
+        "title": "Noja Power RC10",
+        "embed": "https://drive.google.com/file/d/1LAJG2oPyG1ROSVzcUhL92Sve2Oh6mXha/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1lr4xJZLdpOs8PjaXj-7_AIVHauF2mU6r/view?usp=sharing",
+        "title": "PTCC - Field Service Manual",
+        "embed": "https://drive.google.com/file/d/1lr4xJZLdpOs8PjaXj-7_AIVHauF2mU6r/preview"
+      },
+      {
+        "url": "https://docs.google.com/presentation/d/1eXVAeRi5XkXT0aG4Rp_L5vXJeHz5JX88/edit?usp=sharing&ouid=103417982586864569613&rtpof=true&sd=true",
+        "title": "PTCC - Operation & Features",
+        "embed": "https://docs.google.com/presentation/d/1eXVAeRi5XkXT0aG4Rp_L5vXJeHz5JX88/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1_vu4p627PZFmH7jP3x-i0b0TtmOQUvw1/view?usp=sharing",
+        "title": "PTCC - Technical Manual",
+        "embed": "https://drive.google.com/file/d/1_vu4p627PZFmH7jP3x-i0b0TtmOQUvw1/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1uteDKEFpL_nFSQj0ZU1-UP_RxZ_T44pJ/view?usp=sharing",
+        "title": "SE ADVC Controller Range Operation Manual",
+        "embed": "https://drive.google.com/file/d/1uteDKEFpL_nFSQj0ZU1-UP_RxZ_T44pJ/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/12cxSUQmIF_jMVxRcMM2PAjMqze0veLcB/view?usp=sharing",
+        "title": "SE ADVC N-Series Technical Manual v.28",
+        "embed": "https://drive.google.com/file/d/12cxSUQmIF_jMVxRcMM2PAjMqze0veLcB/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1-zXC7yKU0CZFSi6wmcZ7Mpzj00Vczrl1/view?usp=sharing",
+        "title": "Shinsung SIREC VIT R6",
+        "embed": "https://drive.google.com/file/d/1-zXC7yKU0CZFSi6wmcZ7Mpzj00Vczrl1/preview"
+      }
+    ]
+  },
+  "support/manual-book-sectionalizer": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/manual-book-sectionalizer",
+    "resources": [
+      {
+        "url": "https://drive.google.com/drive/folders/1z_GSxXt8Rv0g649D_EJWbDOJal8anfld?usp=share_link",
+        "title": "All About PTCC & ADVC",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1z_GSxXt8Rv0g649D_EJWbDOJal8anfld#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1yKRZEq8_IyaoOiQyGOMf4_1D8i8earZP/view?usp=sharing",
+        "title": "Automatic Section Switch (ASS)",
+        "embed": "https://drive.google.com/file/d/1yKRZEq8_IyaoOiQyGOMf4_1D8i8earZP/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1DZ_qqYSGv9hVxI_a_gQSduNI4HYd41Vl/view?usp=sharing",
+        "title": "Cooper FXD2000 - Setting RTU",
+        "embed": "https://drive.google.com/file/d/1DZ_qqYSGv9hVxI_a_gQSduNI4HYd41Vl/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1nPG1TZoUH50jtbGlkxCJ6MKjT2INdD0g/view?usp=sharing",
+        "title": "Cooper FXD2000 - List Board",
+        "embed": "https://drive.google.com/file/d/1nPG1TZoUH50jtbGlkxCJ6MKjT2INdD0g/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1O82crbLWOlE509qerVAsLIE_RxkZneYW/view?usp=sharing",
+        "title": "Cooper FXD2000 - Manual",
+        "embed": "https://drive.google.com/file/d/1O82crbLWOlE509qerVAsLIE_RxkZneYW/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/13NxSRFNHRb6Vd33iwwOHlzhVGKTdYYgj/view?usp=sharing",
+        "title": "Cooper FXD2000 - Spec Batt",
+        "embed": "https://drive.google.com/file/d/13NxSRFNHRb6Vd33iwwOHlzhVGKTdYYgj/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/14C32isP6N5NNeoA6Eh8fT_38NeDCYmhd/view?usp=sharing",
+        "title": "Cooper FXD2000 - Instalasi LBS",
+        "embed": "https://drive.google.com/file/d/14C32isP6N5NNeoA6Eh8fT_38NeDCYmhd/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1LdC6WvnvKHG5yyAZtS_3VG2EkJTLWv0A?usp=sharing",
+        "title": "ENTEC ETMFC610",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1LdC6WvnvKHG5yyAZtS_3VG2EkJTLWv0A#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/16xXliSsmtvNNGHBgTFBluzY6bZMIBdS3/view?usp=sharing",
+        "title": "Neopis Epic D300S",
+        "embed": "https://drive.google.com/file/d/16xXliSsmtvNNGHBgTFBluzY6bZMIBdS3/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1Gmn4_Sq_BWo6pDnsq2GimGlabvG0n2Nm?usp=drive_link",
+        "title": "Neopis Epic D300S v.2.2.0.6",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1Gmn4_Sq_BWo6pDnsq2GimGlabvG0n2Nm#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1G0jJaJV3AiYyZLzZn5Tt5NP_dpGJbOR4/view?usp=sharing",
+        "title": "PTCC RL27 LBS",
+        "embed": "https://drive.google.com/file/d/1G0jJaJV3AiYyZLzZn5Tt5NP_dpGJbOR4/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1tCW6w4UJqwNeIpdljP8hmWEMHozFqu4S/view?usp=sharing",
+        "title": "PTCC RL Series",
+        "embed": "https://drive.google.com/file/d/1tCW6w4UJqwNeIpdljP8hmWEMHozFqu4S/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1CXGFQnuTT-ijDaI6vUBTtxiUOk6hvd5C/view?usp=sharing",
+        "title": "SCEM Replacement",
+        "embed": "https://drive.google.com/file/d/1CXGFQnuTT-ijDaI6vUBTtxiUOk6hvd5C/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1uteDKEFpL_nFSQj0ZU1-UP_RxZ_T44pJ/view?usp=sharing",
+        "title": "SE ADVC Controller Range Operation Manual",
+        "embed": "https://drive.google.com/file/d/1uteDKEFpL_nFSQj0ZU1-UP_RxZ_T44pJ/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/178vIBI9SHl8-RECIGTUCULauf9roqeUH?usp=share_link",
+        "title": "Siecom SIE-GS",
+        "embed": "https://drive.google.com/embeddedfolderview?id=178vIBI9SHl8-RECIGTUCULauf9roqeUH#list"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1x0ZhWSwVHQnwFMTgOmDb6QzMVz0hLKRI?usp=sharing",
+        "title": "Troubleshooting SSO Cooper",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1x0ZhWSwVHQnwFMTgOmDb6QzMVz0hLKRI#list"
+      }
+    ]
+  },
+  "support/manual-book-3-way": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/manual-book-3-way",
+    "resources": [
+      {
+        "url": "https://drive.google.com/file/d/12xW5kPEomHIVv0HWED8Nhe79r9KpmSIf/view?usp=sharing",
+        "title": "Joongwon 3W",
+        "embed": "https://drive.google.com/file/d/12xW5kPEomHIVv0HWED8Nhe79r9KpmSIf/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Ub0IGeYupSU2Ay6o8GuTlsjsCIKlJLHU/view?usp=sharing",
+        "title": "ABB REC615",
+        "embed": "https://drive.google.com/file/d/1Ub0IGeYupSU2Ay6o8GuTlsjsCIKlJLHU/preview"
+      }
+    ]
+  },
+  "support/software": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/software",
+    "resources": [
+      {
+        "url": "https://drive.google.com/file/d/1iLrPAniPN7vp72mHw3yRWAc5HH7W1_Yh/view?usp=drivesdk",
+        "title": "ABB CAP 505",
+        "embed": "https://drive.google.com/file/d/1iLrPAniPN7vp72mHw3yRWAc5HH7W1_Yh/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1gnqsarwcoEUU5z5qhlDiBZnRs7SZmDsu?usp=sharing",
+        "title": "ABB PCM c.2.1",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1gnqsarwcoEUU5z5qhlDiBZnRs7SZmDsu#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1TC_1iGwT6pPbjxfqD1VaLx7f5Z0v51ui/view?usp=sharing",
+        "title": "ABB PCM v.2.9",
+        "embed": "https://drive.google.com/file/d/1TC_1iGwT6pPbjxfqD1VaLx7f5Z0v51ui/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/10uRW3166YcDvJkBKQ6XpbF3CTz2ypoy2/view?usp=share_link",
+        "title": "ASE2000 v.1.44",
+        "embed": "https://drive.google.com/file/d/10uRW3166YcDvJkBKQ6XpbF3CTz2ypoy2/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1LuDHxHCv8VR6Ckt90ECoWUjl2SF-FySV/view?usp=sharing",
+        "title": "ClearView",
+        "embed": "https://drive.google.com/file/d/1LuDHxHCv8VR6Ckt90ECoWUjl2SF-FySV/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1SFQICT5KrQFsiPmKZECjYnVruk3HTFX3/view?usp=share_link",
+        "title": "CAMia (Neopis D300)",
+        "embed": "https://drive.google.com/file/d/1SFQICT5KrQFsiPmKZECjYnVruk3HTFX3/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1JiEDgNWbBClh-CjvA5UH5WlUswV4pMyY?usp=drive_link",
+        "title": "CAMia v.2.2.6.0",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1JiEDgNWbBClh-CjvA5UH5WlUswV4pMyY#list"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1JZSt7FSx3RuCT0FhxdvLwMn0ViK3-q_D?usp=drive_link",
+        "title": "Deepsea Config. Suite 8610 8xxx",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1JZSt7FSx3RuCT0FhxdvLwMn0ViK3-q_D#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1SiO1VJHr7FoJhrylbQb0ul8LV-TAD3Wl/view?usp=share_link",
+        "title": "Designer (Nari)",
+        "embed": "https://drive.google.com/file/d/1SiO1VJHr7FoJhrylbQb0ul8LV-TAD3Wl/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1JYCFiRfDMdwIvI51r9qt4zizp6__8NIW/view?usp=sharing",
+        "title": "Digsilent PowerFactory 15.1.7",
+        "embed": "https://drive.google.com/file/d/1JYCFiRfDMdwIvI51r9qt4zizp6__8NIW/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1YkeqH54DcweiTXTY5p7dx8VAnPodCcJ3?usp=drive_link",
+        "title": "Easergy Pro P3 P5",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1YkeqH54DcweiTXTY5p7dx8VAnPodCcJ3#list"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1yb1zzyywiYo0DW1A32GaFOqi69XM0nSv?usp=drive_link",
+        "title": "Easergy USB Conn. (T200)",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1yb1zzyywiYo0DW1A32GaFOqi69XM0nSv#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1PvduxmGVano3Pjb2JberaOWUEHTcu2_Y/view?usp=sharing",
+        "title": "Enervista (General Electric)",
+        "embed": "https://drive.google.com/file/d/1PvduxmGVano3Pjb2JberaOWUEHTcu2_Y/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1qJsDOm7D2w9v8ymM9L3l6jxI5-dRXyQN/view?usp=sharing",
+        "title": "ETIMS v.3.00 (ENTEC)",
+        "embed": "https://drive.google.com/file/d/1qJsDOm7D2w9v8ymM9L3l6jxI5-dRXyQN/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1VzaKSXLbjytKv_qG_px9Zi_5_dLu68Po/view?usp=sharing",
+        "title": "ETIMS v.3.00.96 (ENTEC)",
+        "embed": "https://drive.google.com/file/d/1VzaKSXLbjytKv_qG_px9Zi_5_dLu68Po/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1V9KiLl2vBn2269jeXDibofJq5J0cH4Py/view?usp=drive_link",
+        "title": "ETIMS v.3.00.97 (ENTEC)",
+        "embed": "https://drive.google.com/file/d/1V9KiLl2vBn2269jeXDibofJq5J0cH4Py/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/14Z62oe0UlZun1M5QlgTW-Co-zl9i2K9t/view?usp=sharing",
+        "title": "EziView v.425",
+        "embed": "https://drive.google.com/file/d/14Z62oe0UlZun1M5QlgTW-Co-zl9i2K9t/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1uDMnwCKLcnNWN2DYugR17Fg2C351VsOW/view?usp=sharing",
+        "title": "Frequency Recorder (Anang)",
+        "embed": "https://drive.google.com/file/d/1uDMnwCKLcnNWN2DYugR17Fg2C351VsOW/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1ZxNp6eM_JJ7i534C6mJRYETF5UWsFFZe/view?usp=sharing",
+        "title": "FTU Man v.494",
+        "embed": "https://drive.google.com/file/d/1ZxNp6eM_JJ7i534C6mJRYETF5UWsFFZe/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1cWUWCe-hbqhmlm47jXMwULD43pesl96l/view?usp=share_link",
+        "title": "FTUMan v.4.11.3.2",
+        "embed": "https://drive.google.com/file/d/1cWUWCe-hbqhmlm47jXMwULD43pesl96l/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1hBNPGlASWjatnhV0o14t2IE65vdayQEC/view?usp=share_link",
+        "title": "FTUMan v.4.12.8.6 (INES)",
+        "embed": "https://drive.google.com/file/d/1hBNPGlASWjatnhV0o14t2IE65vdayQEC/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1vS1h0LJoOkCMlZMs4Nq_pbpMVq3NuUD8",
+        "title": "FTUMan v.4.11.3.20200304",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1vS1h0LJoOkCMlZMs4Nq_pbpMVq3NuUD8#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1yetFaG_vqlKnt7OUDO7iZwSTA6KG2yFx/view?usp=sharing",
+        "title": "InsightView v.1.1.15 (Cooper FXD)",
+        "embed": "https://drive.google.com/file/d/1yetFaG_vqlKnt7OUDO7iZwSTA6KG2yFx/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1dDYsvOxOGS79J3yPg0RhHuCfNABK_ZUG/view?usp=drive_link",
+        "title": "InsightView v.1.1.16 (Cooper FXD)",
+        "embed": "https://drive.google.com/file/d/1dDYsvOxOGS79J3yPg0RhHuCfNABK_ZUG/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1w6_-taDfbGMwn9pO-ABx8HlL5I7Rvl2Q/view?usp=sharing",
+        "title": "InsightView v.1.1.24 (Cooper FXD)",
+        "embed": "https://drive.google.com/file/d/1w6_-taDfbGMwn9pO-ABx8HlL5I7Rvl2Q/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1XIIWguijqpjE_D0mETLxDe3HNjUQm9KE/view?usp=drive_link",
+        "title": "InsightView v.1.1.16 + Firmware 1.00.26 (Pusertif)",
+        "embed": "https://drive.google.com/file/d/1XIIWguijqpjE_D0mETLxDe3HNjUQm9KE/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1pw3E9xiZJu6f8dMC42ASrEfgI-vWTv1T/view?usp=sharing",
+        "title": "ION v.3.0",
+        "embed": "https://drive.google.com/file/d/1pw3E9xiZJu6f8dMC42ASrEfgI-vWTv1T/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1JwJMOFai4r-igJtyhLIwLNb0qvWQCHHv/view?usp=sharing",
+        "title": "Megger PowerDB",
+        "embed": "https://drive.google.com/file/d/1JwJMOFai4r-igJtyhLIwLNb0qvWQCHHv/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/161GzLPiX6DR2bhhghLGmtQEWMXovN6UK?usp=sharing",
+        "title": "Megger PowerDB 11.3",
+        "embed": "https://drive.google.com/embeddedfolderview?id=161GzLPiX6DR2bhhghLGmtQEWMXovN6UK#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1WWFXFRR30z-WFs2IlaE7dIuV0n9N2HUa/view?usp=share_link",
+        "title": "Modscan 32 (Portable)",
+        "embed": "https://drive.google.com/file/d/1WWFXFRR30z-WFs2IlaE7dIuV0n9N2HUa/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Utt6kCeKat-XzxWnVB7nPlWsBwDVgyHY/view?usp=sharing",
+        "title": "MSCom2",
+        "embed": "https://drive.google.com/file/d/1Utt6kCeKat-XzxWnVB7nPlWsBwDVgyHY/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1Ufa7mSkYWGKaHhTmFruku92gO4_EITLc?usp=sharing",
+        "title": "PCM600",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1Ufa7mSkYWGKaHhTmFruku92gO4_EITLc#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1SiO1VJHr7FoJhrylbQb0ul8LV-TAD3Wl/view?usp=share_link",
+        "title": "PCS Explorer NR 9691 (Portable)",
+        "embed": "https://drive.google.com/file/d/1SiO1VJHr7FoJhrylbQb0ul8LV-TAD3Wl/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1pOWkQk4oqBF8_dVR3i3yQCkFzwpBiT68/view?usp=sharing",
+        "title": "ProView v.4.0 (Cooper F6)",
+        "embed": "https://drive.google.com/file/d/1pOWkQk4oqBF8_dVR3i3yQCkFzwpBiT68/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1WyStr-uk2K96k3W84Vk9SO8hr6OdmaLT/view?usp=sharing",
+        "title": "ProView v.5.0 (Cooper F6)",
+        "embed": "https://drive.google.com/file/d/1WyStr-uk2K96k3W84Vk9SO8hr6OdmaLT/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1uV-03fgTV9J3kVyLPtiqaqz17-obPwmg/view?usp=sharing",
+        "title": "ProView v.5.1 (Cooper F6)",
+        "embed": "https://drive.google.com/file/d/1uV-03fgTV9J3kVyLPtiqaqz17-obPwmg/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/13RWST3xtNO6LMiW3cvfrMjbD39hlkF8I/view?usp=sharing",
+        "title": "R-Manager v.1.1.8 (Techpro)",
+        "embed": "https://drive.google.com/file/d/13RWST3xtNO6LMiW3cvfrMjbD39hlkF8I/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/177OUx-t6KuXPQ2NnhEPGCITL6vwoVqCR/view?usp=share_link",
+        "title": "R-Manager v.1.1.8.9 (Techpro)",
+        "embed": "https://drive.google.com/file/d/177OUx-t6KuXPQ2NnhEPGCITL6vwoVqCR/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1vfqJREjNUgvyqZCzgf3QgXdLOY7IfDGB?usp=drive_link",
+        "title": "R-Manager v.1.1.8.10 (Techpro)",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1vfqJREjNUgvyqZCzgf3QgXdLOY7IfDGB#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1dxCdDh0Snt3bFyObQ5oDfm2LMSfGVhlY/view?usp=drive_link",
+        "title": "Relay Talk (ASHIDA)",
+        "embed": "https://drive.google.com/file/d/1dxCdDh0Snt3bFyObQ5oDfm2LMSfGVhlY/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1hqXIhQ9nCOMw6FIMzG1jNcxQ7vrU70c3/view?usp=sharing",
+        "title": "Reydisp Evolution 32",
+        "embed": "https://drive.google.com/file/d/1hqXIhQ9nCOMw6FIMzG1jNcxQ7vrU70c3/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/14euRNcMfWnE-CVNx-Jfw7pH8Cy6ysUjf/view?usp=sharing",
+        "title": "Reydisp Evolution 32 v.9.83.000",
+        "embed": "https://drive.google.com/file/d/14euRNcMfWnE-CVNx-Jfw7pH8Cy6ysUjf/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1b-y6tIVL_foPVeRjNfN45h84N3vuQ-iC/view?usp=sharing",
+        "title": "Reydisp Manager Template v.1.7",
+        "embed": "https://drive.google.com/file/d/1b-y6tIVL_foPVeRjNfN45h84N3vuQ-iC/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1r0Q2MxXKHGJ8A9OCfrgOVwAha_X8iInc/view?usp=sharing",
+        "title": "Reydisp Manager v1.7",
+        "embed": "https://drive.google.com/file/d/1r0Q2MxXKHGJ8A9OCfrgOVwAha_X8iInc/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/13h58ggGp9QZwKWu7a8lHYJfoPWhA-ru5/view?usp=sharing",
+        "title": "S1 Agile v.2.0",
+        "embed": "https://drive.google.com/file/d/13h58ggGp9QZwKWu7a8lHYJfoPWhA-ru5/preview"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/149L0mfmznn2QZFYnUHh63Mo6GiRy0Pm3",
+        "title": "S1 Agile v.2.0, v.1.3, Data Model (.adma)",
+        "embed": "https://drive.google.com/embeddedfolderview?id=149L0mfmznn2QZFYnUHh63Mo6GiRy0Pm3#list"
+      },
+      {
+        "url": "https://drive.google.com/drive/folders/1_kMk9NZwvhSfP5p1obNycnbPuYrlCy4_?usp=share_link",
+        "title": "SDS (Siecom)",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1_kMk9NZwvhSfP5p1obNycnbPuYrlCy4_#list"
+      },
+      {
+        "url": "https://drive.google.com/file/d/16cRBRE-9zUlVrcfsQa1NuzgtmS528eF9/view?usp=sharing",
+        "title": "Syscon v.7.2 Siemens (Trial)",
+        "embed": "https://drive.google.com/file/d/16cRBRE-9zUlVrcfsQa1NuzgtmS528eF9/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Giiz21qc_ttHdXSWrPgWUMdSPKbayru-/view?usp=sharing",
+        "title": "T-Manager (3Way Joongwon)",
+        "embed": "https://drive.google.com/file/d/1Giiz21qc_ttHdXSWrPgWUMdSPKbayru-/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Mfa843TR7dc6Xv7ASs6s1roT3xG-2x97/view?usp=share_link",
+        "title": "USR VCOM (Serial to Eth Conv)",
+        "embed": "https://drive.google.com/file/d/1Mfa843TR7dc6Xv7ASs6s1roT3xG-2x97/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1RH5jdHdEcVNrmWzJE-pDNGpMuMTwZ8aT/view?usp=sharing",
+        "title": "VAMP-Set v.2.2.203",
+        "embed": "https://drive.google.com/file/d/1RH5jdHdEcVNrmWzJE-pDNGpMuMTwZ8aT/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1tPcjgOE5JZ65SyfjIYsiVvgA63gG9NIu/view?usp=sharing",
+        "title": "Vicom Manager (Vipam)",
+        "embed": "https://drive.google.com/file/d/1tPcjgOE5JZ65SyfjIYsiVvgA63gG9NIu/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1K52lKHXbYQYNf8TM1PF_vhzDZGVjUPLC/view?usp=sharing",
+        "title": "Woodward Easygen 3000XT",
+        "embed": "https://drive.google.com/file/d/1K52lKHXbYQYNf8TM1PF_vhzDZGVjUPLC/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1fBNHfaQuPusg5DLci6MHPphggbqazKgg/view?usp=sharing",
+        "title": "WSOS 5 SE-ADVC",
+        "embed": "https://drive.google.com/file/d/1fBNHfaQuPusg5DLci6MHPphggbqazKgg/preview"
+      },
+      {
+        "url": "https://new.abb.com/medium-voltage/digital-substations/software-products/protection-and-control-ied-manager-pcm600/pcm600-downloads",
+        "title": "ABB PCM v.2.12",
+        "embed": null
+      },
+      {
+        "url": "https://nas.pln.co.id:5001/sharing/05J9O4R2d",
+        "title": "Digsilent PowerFactory 15.1 (Portable)",
+        "embed": null
+      },
+      {
+        "url": "https://www.se.com/id/id/download/document/Easergy_Builder/",
+        "title": "Easergy Builder v.1.7.19.1",
+        "embed": null
+      },
+      {
+        "url": "https://www.se.com/id/en/download/document/Easergy_Studio_Installer/",
+        "title": "Easergy Studio v.9.3.3",
+        "embed": null
+      },
+      {
+        "url": "https://www.se.com/ww/en/download/document/Setup_Software_SFT2841/",
+        "title": "SFT2841 v.17.2 (Sepam)",
+        "embed": null
+      }
+    ]
+  },
+  "support/software/connectivity-package-abb": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/software/connectivity-package-abb",
+    "resources": [
+      {
+        "url": "https://drive.google.com/file/d/13j3pjAbrgYW3oaP6uziwQquJrbIdLF1S/view?usp=sharing",
+        "title": "ABB REG650 v.2.1.2.0",
+        "embed": "https://drive.google.com/file/d/13j3pjAbrgYW3oaP6uziwQquJrbIdLF1S/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1EQlHEYIFf3k74khxc-4Yuaj90FkK_mI2/view?usp=sharing",
+        "title": "ABB REF615 v.4.1",
+        "embed": "https://drive.google.com/file/d/1EQlHEYIFf3k74khxc-4Yuaj90FkK_mI2/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1gi_XN9RNRclDBnrHZahlyPbZ8Caw_xHe/view?usp=sharing",
+        "title": "ABB RET615 v.4.0.2",
+        "embed": "https://drive.google.com/file/d/1gi_XN9RNRclDBnrHZahlyPbZ8Caw_xHe/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1EJQ7wFhAB4osIQcnHqm_O7H2Do5IGmyI/view?usp=sharing",
+        "title": "ABB REU615 v.5.0.2",
+        "embed": "https://drive.google.com/file/d/1EJQ7wFhAB4osIQcnHqm_O7H2Do5IGmyI/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1NDPTTMQxBetdhubTP97VRK0hqJM9Ywf8/view?usp=sharing",
+        "title": "ABB REF615 v.4.1.1",
+        "embed": "https://drive.google.com/file/d/1NDPTTMQxBetdhubTP97VRK0hqJM9Ywf8/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1yHsgmM19aHjn4hVyjxTZjTKfMB2RsmvI/view?usp=sharing",
+        "title": "ABB REG630 v.1.3.2",
+        "embed": "https://drive.google.com/file/d/1yHsgmM19aHjn4hVyjxTZjTKfMB2RsmvI/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1eX--sl3xQRPnN4TIxpnpm7Ey24X7sb9N/view?usp=sharing",
+        "title": "ABB RET541 v.2.3",
+        "embed": "https://drive.google.com/file/d/1eX--sl3xQRPnN4TIxpnpm7Ey24X7sb9N/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/12Q2_MLJ_o4N0-C9LcuHogc-enXS4Y7nX/view?usp=sharing",
+        "title": "ABB REC615 V 2.0.5",
+        "embed": "https://drive.google.com/file/d/12Q2_MLJ_o4N0-C9LcuHogc-enXS4Y7nX/preview"
+      },
+      {
+        "url": "https://new.abb.com/medium-voltage/digital-substations/software-products/connectivity-packages-for-protection-relays-ied-connect",
+        "title": "ABB Website!",
+        "embed": null
+      }
+    ]
+  },
+  "support/software/data-model-easergy-studio": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/software/data-model-easergy-studio",
+    "resources": [
+      {
+        "url": "https://drive.google.com/file/d/1KcE2h36qTvSTUwU5qc5Tpwoug1goq5Kw/view?usp=sharing",
+        "title": "P123, P127, P142, P922, P923",
+        "embed": "https://drive.google.com/file/d/1KcE2h36qTvSTUwU5qc5Tpwoug1goq5Kw/preview"
+      }
+    ]
+  },
+  "support/software/driver-kabel-serial": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/software/driver-kabel-serial",
+    "resources": [
+      {
+        "url": "https://drive.google.com/file/d/1M0v1TzZBujVMZoZ823RNQD3WgbLUzRXV/view?usp=sharing",
+        "title": "BF810 v.1210 Windows",
+        "embed": "https://drive.google.com/file/d/1M0v1TzZBujVMZoZ823RNQD3WgbLUzRXV/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1sE1ZYosG8o-x4-iwkOH4OVoga2dLmm8H/view?usp=sharing",
+        "title": "UC232A v.1.0.087 Windows",
+        "embed": "https://drive.google.com/file/d/1sE1ZYosG8o-x4-iwkOH4OVoga2dLmm8H/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1geSwPipST2m-qStt1O6lSUu_2k8HfUfn/view?usp=drive_link",
+        "title": "CP210x_VCP_Windows",
+        "embed": "https://drive.google.com/file/d/1geSwPipST2m-qStt1O6lSUu_2k8HfUfn/preview"
+      }
+    ]
+  },
+  "support/software/firmware-cooper-fxd2000": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/software/firmware-cooper-fxd2000",
+    "resources": [
+      {
+        "url": "https://drive.google.com/drive/folders/1L8RoyCF-Oz2faeusGYyMthttj5964l6u?usp=share_link",
+        "title": "Firmware Cooper FXD2000",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1L8RoyCF-Oz2faeusGYyMthttj5964l6u#list"
+      }
+    ]
+  },
+  "support/software/firmware-advc": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/software/firmware-advc",
+    "resources": [
+      {
+        "url": "https://docs.google.com/folderview?id=1AiQ55T2vRGp070YPhLOEmrRA4zBWXqS0",
+        "title": "ADVC 3",
+        "embed": null
+      },
+      {
+        "url": "https://drive.google.com/embeddedfolderview?id=1AiQ55T2vRGp070YPhLOEmrRA4zBWXqS0#list",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1AiQ55T2vRGp070YPhLOEmrRA4zBWXqS0#list",
+        "title": "ADVC 2"
+      },
+      {
+        "url": "https://docs.google.com/folderview?id=1aCsKdWcj33gXog325mb2gkVMEXFG4ulv",
+        "title": "ADVC 3",
+        "embed": null
+      },
+      {
+        "url": "https://drive.google.com/embeddedfolderview?id=1aCsKdWcj33gXog325mb2gkVMEXFG4ulv#list",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1aCsKdWcj33gXog325mb2gkVMEXFG4ulv#list",
+        "title": "ADVC 3"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1yjA3SWAjbAvLFsyQonNPMwzTvEd8vZwL/preview",
+        "embed": "https://drive.google.com/file/d/1yjA3SWAjbAvLFsyQonNPMwzTvEd8vZwL/preview",
+        "title": "Manual Upgrade Firmware.ppt"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1-fBmkTyXojDV-2pBT3nq1fGRpdhjSPsD/preview",
+        "embed": "https://drive.google.com/file/d/1-fBmkTyXojDV-2pBT3nq1fGRpdhjSPsD/preview",
+        "title": "Manual Upgrade Firmware.pdf"
+      }
+    ]
+  },
+  "support/software/firmware-joongwon-ar": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/software/firmware-joongwon-ar",
+    "resources": [
+      {
+        "url": "https://drive.google.com/file/d/1Z9gkIVOyuSE1o1kptMTkmJH1VN0vjgNX/view?usp=sharing",
+        "title": "Manual Instruction, FW v.443, FW v. 449, FW v. 430, FW v. 450",
+        "embed": "https://drive.google.com/file/d/1Z9gkIVOyuSE1o1kptMTkmJH1VN0vjgNX/preview"
+      }
+    ]
+  },
+  "support/software/firmware-techpro": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/software/firmware-techpro",
+    "resources": [
+      {
+        "url": "https://drive.google.com/file/d/1Jdj4ggVI7lcc9lXHs_ixS0WDIlDnbpnS/view?usp=drive_link",
+        "title": "Firmware RT200P (Techrpo; PT INES)",
+        "embed": "https://drive.google.com/file/d/1Jdj4ggVI7lcc9lXHs_ixS0WDIlDnbpnS/preview"
+      }
+    ]
+  },
+  "support/software/firmware-megger": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/software/firmware-megger",
+    "resources": [
+      {
+        "url": "https://drive.google.com/file/d/1ksw9Re4US0vUGybrXWCLVkvkE_qQ9zC8/preview",
+        "embed": "https://drive.google.com/file/d/1ksw9Re4US0vUGybrXWCLVkvkE_qQ9zC8/preview",
+        "title": "CDM20814_Megger_Group_Device_MS_Signed.zip"
+      }
+    ]
+  },
+  "support/software/firmware-sso-sintra-pnc-tech": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/software/firmware-sso-sintra-pnc-tech",
+    "resources": [
+      {
+        "url": "https://drive.google.com/drive/folders/1bujVsicrm1Ionkxx9qrvoYD1XiF7RmeY?usp=drive_link",
+        "title": "IK dan Software ; Firmware Update SSO Sintra (PNC Tech)",
+        "embed": "https://drive.google.com/embeddedfolderview?id=1bujVsicrm1Ionkxx9qrvoYD1XiF7RmeY#list"
+      }
+    ]
+  },
+  "support/software/flash-upgrade-fw-siemens": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/software/flash-upgrade-fw-siemens",
+    "resources": [
+      {
+        "url": "https://drive.google.com/file/d/1ACq1KCrdU7ttft-F_ziqVMaorzRXupvm/view?usp=sharing",
+        "title": "File Flash & Upgrade Firmware",
+        "embed": "https://drive.google.com/file/d/1ACq1KCrdU7ttft-F_ziqVMaorzRXupvm/preview"
+      }
+    ]
+  },
+  "support/software/p127-upgrade-modbus-to-dnp3": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/software/p127-upgrade-modbus-to-dnp3",
+    "resources": [
+      {
+        "url": "https://drive.google.com/file/d/1e-mOXUgtB-KgPanE5a0cNiQuNBO-P1_l/view?usp=sharing",
+        "title": "Firmware, Out File & Instruction",
+        "embed": "https://drive.google.com/file/d/1e-mOXUgtB-KgPanE5a0cNiQuNBO-P1_l/preview"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1pY7vmc0N3eEv9VIzP8VKVaF9M5zJA5JZ/preview",
+        "embed": "https://drive.google.com/file/d/1pY7vmc0N3eEv9VIzP8VKVaF9M5zJA5JZ/preview",
+        "title": "Flashing Relay P12X_rev1.pdf"
+      }
+    ]
+  },
+  "support/software/relay-lib-pf": {
+    "url": "https://sites.google.com/view/harpro-up2dkalbar/support/software/relay-lib-pf",
+    "resources": [
+      {
+        "url": "https://drive.google.com/file/d/10D9NWg4qcS210ZtG2dyad18Uh8sud67Z/view?usp=sharing",
+        "title": "Relay Library (PowerFactory)",
+        "embed": "https://drive.google.com/file/d/10D9NWg4qcS210ZtG2dyad18Uh8sud67Z/preview"
+      }
+    ]
   }
 }
